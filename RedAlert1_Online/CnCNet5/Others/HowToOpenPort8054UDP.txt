@@ -1,0 +1,21 @@
+Note: There is no need to read this tutorial if you are using mobile internet (3G/4G/Surf Sticks/etc..), opening ports is sadly not possible with these kind of connections.
+
+Tutorial for DSL/Cable users:
+
+1. Find out which router you have. If you do not know what a router is then click the link below to see some pictures:
+https://www.google.com/search?q=router&tbm=isch
+
+2. Open the following website:
+http://portforward.com/english/applications/port_forwarding/CnCNet/default.htm
+
+3. Choose your Router manufacturer from the list.
+
+4. Choose the model number/name from the next website.
+
+5. Follow the instructions and open your port:
+Name: CnCNet
+Source-Port(start): 8054
+Dest-Port(end): 8054
+Protocol(type): UDP
+
+Note: Additional firewalls (Comodo/Norton/F-Secure/etc..) usually cause problems with many programs, make sure to set your firewall up properly. The original windows firewall will not cause any problems.

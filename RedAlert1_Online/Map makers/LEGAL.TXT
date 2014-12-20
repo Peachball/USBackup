@@ -1,0 +1,47 @@
+CCMAP 3.0 LICENSE AGREEMENT
+
+NOTICE: THIS IS A CONTRACT. BY INSTALLING AND USING THIS SOFTWARE, YOU ARE
+AGREEING TO BE BOUND BY ALL THE TERMS AND CONDITIONS OF THIS AGREEMENT.
+PLEASE READ CAREFULLY BEFORE PROCEEDING. IF YOU DO NOT AGREE TO THESE TERMS,
+PROMPTLY DESTROY ALL COPIES OF THE SOFTWARE IN YOUR POSSESSION.
+
+The Software is owned by its creator, the code is a valuable trade secret 
+protected by copyright law and international treaty.
+Recipient will not disclose, publish, or distribute the Software except as
+permitted, and agrees to take reasonable precautions to prevent any
+unauthorized use, disclosure, publication, or distribution. Proprietary
+rights notices on the Software shall be preserved on all copies made, and
+the Software shall not be modified, reverse engineered, or decompiled for
+any purpose, or translated into another computer language.
+
+THE SOFTWARE IS PROVIDED "AS IS," AND WITHOUT ANY WARRANTY, EXPRESS OR
+IMPLIED, AS TO NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR ANY
+PARTICULAR PURPOSE, OR AS TO ITS PERFORMANCE, ACCURACY OR COMPLETENESS.
+The creator of this program does not guaranty that the Software (or any
+similar product) will be available in the future. Use of the Software is
+entirely at Recipient's risk.
+
+THE CREATOR OF THIS PROGRAM SHALL NOT BE LIABLE FOR ANY SPECIAL, INCIDENTAL
+OR CONSEQUENTIAL DAMAGES, WHETHER ARISING IN TORT (INCLUDING NEGLIGENCE),
+CONTRACT OR OTHERWISE, THAT ARISE FROM ANY USE OF THE SOFTWARE AND/OR OTHER
+CONFIDENTIAL INFORMATION OR FAILURE TO PERFORM UNDER THIS AGREEMENT.
+
+This license does not entitle you to any hard-copy documentation, support or
+telephone assistance.  You shall only use the Software on any single
+computer and only copy the Software for archival purposes and only if such
+copy contains all of the original Software's proprietary notices.  You shall
+not (and you shall not permit others to): (i) transfer or use the Software
+except as expressly and unambiguously permitted in this Agreement; (ii)
+remove any proprietary notices or labels on the Software; or (iii) reverse
+assemble, reverse compile or reverse engineer the Software.
+
+This License will terminate immediately without notice if the Recipient 
+fails to comply with any provision of this License. Upon termination
+Recipient must destroy all copies of the Software.
+
+Recipient may terminate this License at any time by destroying all copies of
+the Software.
+
+
+Copyright (C) 1996 R. Heesbeen & J. Ritmeijer All rights reserved.
+Command & Conquer is a trademark of Westwood Studios.

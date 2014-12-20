@@ -1,0 +1,25 @@
+
+[Basic]
+NewINIFormat=3
+Name=Blank MegaMap (Interior)
+
+[Map]
+Theater=INTERIOR
+X=1
+Y=1
+Width=126
+Height=126
+
+[Waypoints]
+98=7616
+
+[MapPack]
+1=CQAAIIIMAf/+HwAAgAkAACCCDAH//h8AAIAJAAAgggwB//4fAACACQAAIIIMAf/+HwAAgA
+2=kAACCBAP7+HwCBAIAJAAAggQD+/h8AgQCA
+
+[OverlayPack]
+1=CQAAIIH//v4f/4H/gAkAACCB//7+H/+B/4A=
+
+[Base]
+Count=0
+Player=USSR

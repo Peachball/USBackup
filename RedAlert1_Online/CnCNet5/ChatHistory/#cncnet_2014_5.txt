@@ -1,0 +1,76 @@
+(21) [19:55] * May 21 2014
+(21) [19:55] * Connecting... (takes up to 1minute)
+(21) [19:55] *:us.irc.cncnet.org *** Looking up your hostname...
+(21) [19:55] *:us.irc.cncnet.org *** Looking up your hostname...
+(21) [19:55] *:us.irc.cncnet.org *** Skipping host resolution (disabled by server administrator)
+(21) [19:55] *:us.irc.cncnet.org *** Skipping host resolution (disabled by server administrator)
+(21) [19:55] *:us.irc.cncnet.org Welcome to CnCNet!
+(21) [19:55] *:us.irc.cncnet.org Welcome to CnCNet!
+(21) [19:55] * Welcome to new CnCNet server! Rules: No racism, harassment or impersonation of other players allowed!
+(21) [19:56] * Players in []huejardon's game: []huejardon | Map: Break ownz at crates v 2.0
+(21) [19:56] * []huejardon | IP: 50.135.117.* | Version: 1.04 CSURTUNrCpCaTBISTlm6OnXaCM2kJlXvCFX6Cg21QM2kJlByCRXvCM2kJlSX-CHXaI8B8IBUBCRGa | Identd: 31PikU134xb09IE | United States
+(21) [19:56] * []huejardon | Other Names: huejardon [huejardon] []huejardon
+(21) [19:56] * []huejardon | Idle: 00hrs 00mins 37secs | Online Since: May 21 2014 16:42:50
+(21) [19:56] * [AFO]-S1d- | IP: 179.126.19.* | Version: 1.04 CBaETwaSUUNyCRwgJlB4QM2aJlByClXkJlNgIF2aQRGvCFXaQRNvCRG2JlBvCVX=-IREMI8CpCHO4O8C8-CHXkCHXkCHXkCHXkCHESCX== | Identd: WmtAbKA6ppe63nC | Brazil
+(21) [19:56] * [AFO]-S1d- | Other Names: S1dn3yy LaFleur Sidneyy JimmyBobo SidineyyA|X laFleu SuperNewbie SuperNewbi S1d|\|3yy _S1d|\|3yy JustNewHere suPERnoO0b |X|_LaFleur [_aFleur |_aFleur _LaFleur \\__o_O _S1d\Eyy _S1d\|3yy {S1d\|3yy} [1S1d\|3yy] [51d\|3yy] Guest_9318 Guest_1133 [S1dyy-VVS] [S1dyy-VVS [1TS-Siddy] [1TS-Sidyy] [1AT-Sidyy] [1AT]Sidyy [-S1dN3yy-] [-S1dN3yy- OutOfShape o_O-Zilla Guest_1204 Guest_4615 Guest_5890 o_O [-S1dNEyy-] [-S1dNEyy- GoKillANoob SmuRfett3 SpacerNoob _3uMato1No EuMato1No0b EuMatoNOOBS EuMatoNOOB Nasty4Life SharkZilla MysticMan [AFO]-S1dyy [AFO]-S1dy
+(21) [19:56] * [AFO]-S1d- | Idle: 01hrs 18mins 51secs | Online Since: May 21 2014 18:11:38
+(21) [19:56] * [AT]TANK | IP: 24.0.34.* | Version: 1.04 CBTLRVUQV8jZRn8gIHXkNHBkJlXvCM2aNHN8JlXvCpNvCFXaCM2kJlXvCVX=-CHX2CBC4TlEYClNa | Identd: db1subJF3Rga0yJ | United States
+(21) [19:56] * [AT]TANK | Other Names: LetsGetItOn HitByTank [AT]TANK [WC]TankMan
+(21) [19:56] * [AT]TANK | Idle: 03hrs 12mins 02secs | Online Since: May 21 2014 12:09:21
+(21) [20:46] * May 21 2014
+(21) [20:46] * Connecting... (takes up to 1minute)
+(21) [20:46] *:us.irc.cncnet.org *** Looking up your hostname...
+(21) [20:46] *:us.irc.cncnet.org *** Looking up your hostname...
+(21) [20:46] *:us.irc.cncnet.org *** Skipping host resolution (disabled by server administrator)
+(21) [20:46] *:us.irc.cncnet.org *** Skipping host resolution (disabled by server administrator)
+(21) [20:46] *:us.irc.cncnet.org Welcome to CnCNet!
+(21) [20:46] *:us.irc.cncnet.org Welcome to CnCNet!
+(21) [20:46] * Welcome to new CnCNet server! Rules: No racism, harassment or impersonation of other players allowed!
+(21) [20:46] * sjivrenille has formed a new game (Red Alert 1)
+(21) [20:46] * Players in easycompany's game: easycompany | Map: Holy Grounds (Mega 8p)
+(21) [20:46] * Players in _3Teams's game: _3Teams NoMachine | Map: WWII - Europe v2 by Vendetta
+(21) [20:46] * Players in 1v1: Col0_ | Map: Official 2k12 P4-Rashowdown 1x/2x
+(21) [20:46] * Players in easycompany's game: easycompany | Map: Holy Grounds (Mega 8p)
+(24) [18:19] * May 24 2014
+(24) [18:19] * Connecting... (takes up to 1minute)
+(24) [18:19] *:us.irc.cncnet.org *** Looking up your hostname...
+(24) [18:19] *:us.irc.cncnet.org *** Looking up your hostname...
+(24) [18:19] *:us.irc.cncnet.org *** Skipping host resolution (disabled by server administrator)
+(24) [18:19] *:us.irc.cncnet.org *** Skipping host resolution (disabled by server administrator)
+(24) [18:19] *:us.irc.cncnet.org Welcome to CnCNet!
+(24) [18:19] *:us.irc.cncnet.org Welcome to CnCNet!
+(24) [18:19] * Welcome to new CnCNet server! Rules: No racism, harassment or impersonation of other players allowed!
+(24) [18:19] * Players in 1vs1: Petestad_ | Map: Europe (Ultimate Edition)
+(24) [18:19] * Players in Click_P4's game: Click_P4 Ninja powertoy sp0kcab | Map: Official 2k12 P4-Rashowdown 1x/2x
+(24) [18:19] * dogtooth has formed a new game (Tiberian Sun)
+(24) [18:20] * S has formed a new game (Red Alert 1)
+(24) [18:20] * [Jayman-TA] | IP: 98.217.153.* | Version: 1.05 ra CBIZRUEUUBUFJRC1C8UETFXaQRNvCRG2JlBvCFX1In2aClyvQRGvCFXaQRNvCRG2JlBvCVX=-CVC4TlG5ClNkCpV5 | Identd: 2eFTDrAsp8UMBe1 | United States
+(24) [18:20] * [Jayman-TA] | Other Names: Jayman ^Jayman[TA] ^Jayman|TA |Jayman|TA \Jayman|TA [TA]-Jayman [Jayman-TA] [Jayman-TA [Jayman] LOSTJAYMAN
+(24) [18:20] * [Jayman-TA] | Idle: 00hrs 56mins 33secs | Online Since: May 24 2014 17:23:46
+(24) [18:20] * [TIF]_Raarb | IP: 81.129.63.* | Version: 1.05 ra CShLRBkrRBSOUB7ONHB1Cn2aIlyvCF2gIROyClB6JlCgJlB8CF2aIHVyCRwgJlB4QM2aJlN5IBX=-OVC6Cly1I8THIlNk-CHXkCHXkCHXkCHXkCHESCX== | Identd: sNizXSZohybRt3s | United Kingdom
+(24) [18:20] * [TIF]_Raarb | Other Names: Unknown
+(24) [18:20] * [TIF]_Raarb is away (In game with: Wilson Scott55 Neal yomo Achilles)
+(24) [18:20] * [TIF]_Raarb | Idle: 00hrs 12mins 02secs | Online Since: May 24 2014 18:07:35
+(24) [18:20] * Players in Click_P4's game: Click_P4 Ninja sp0kcab | Map: Official 2k12 P4-Rashowdown 1x/2x
+(24) [18:20] * powertoy has formed a new game (Red Alert 1)
+(25) [18:08] * May 25 2014
+(25) [18:08] * Connecting... (takes up to 1minute)
+(25) [18:08] *:us.irc.cncnet.org *** Looking up your hostname...
+(25) [18:08] *:us.irc.cncnet.org *** Looking up your hostname...
+(25) [18:08] *:us.irc.cncnet.org *** Skipping host resolution (disabled by server administrator)
+(25) [18:08] *:us.irc.cncnet.org *** Skipping host resolution (disabled by server administrator)
+(25) [18:08] *:us.irc.cncnet.org Welcome to CnCNet!
+(25) [18:08] *:us.irc.cncnet.org Welcome to CnCNet!
+(25) [18:08] * Welcome to new CnCNet server! Rules: No racism, harassment or impersonation of other players allowed!
+(28) [17:31] * May 28 2014
+(28) [17:31] * Connecting... (takes up to 1minute)
+(28) [17:31] *:us.irc.cncnet.org *** Looking up your hostname...
+(28) [17:31] *:us.irc.cncnet.org *** Looking up your hostname...
+(28) [17:31] *:us.irc.cncnet.org *** Skipping host resolution (disabled by server administrator)
+(28) [17:31] *:us.irc.cncnet.org *** Skipping host resolution (disabled by server administrator)
+(28) [17:31] *:us.irc.cncnet.org Welcome to CnCNet!
+(28) [17:31] *:us.irc.cncnet.org Welcome to CnCNet!
+(28) [17:31] * Welcome to new CnCNet server! Rules: No racism, harassment or impersonation of other players allowed!
+(28) [17:31] * Simonp862 has formed a new game (Tiberian Sun)
+(28) [17:31] * Guest_5106 has formed a new game (Tiberian Dawn)
+(28) [17:31] * Players in ManInWaR's game: ManInWaR_ Vendetta smash Grave-dig RedAlert Alley | Map: HJK6 (3 vs 3)

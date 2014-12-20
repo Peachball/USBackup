@@ -1,0 +1,26 @@
+[Basic]
+NewINIFormat=3
+Name=start in middle
+
+[Map]
+Theater=TEMPERATE
+X=1
+Y=32
+Width=126
+Height=64
+
+[Waypoints]
+98=7094
+
+[MapPack]
+1=EAAAIIH//gEB//78AAD/Ah7+AIAfAAAggf/+fR3/hAEAAQD+/AD///wAfh0Q/FAC/nkA/4
+2=H/gCAAACCB//55AP+CAQBwAv74AP///ACCAP8EAXoB/oEc/4H/gBsAACCC///+/AAAgf8A
+3=Af78AAD/BB3+AP79AP+B/4AWAAAggQD+gAAA/n4AAf8CD38A/v4PAIEAgBYAACCBAP4AEA
+4=D+fgAB/wIP/w/+fgAAgQCA
+
+[OverlayPack]
+1=CQAAIIH//v4f/4H/gAkAACCB//7+H/+B/4A=
+
+[Digest]
+1=K/Duaetmzdo7mQnIrJETWiFPJKg=
+

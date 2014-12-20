@@ -1,0 +1,3624 @@
+
+[Basic]
+Name=Central island 2 (4 Teams LG)
+NewINIFormat=3
+Intro=<none>
+Brief=<none>
+Win=<none>
+Lose=<none>
+Action=<none>
+ToCarryOver=no
+ToInherit=no
+TimerInherit=no
+EndOfGame=no
+CivEvac=no
+Theme=No theme
+CarryOverMoney=0
+CarryOverCap=0
+NoSpyPlane=no
+SkipScore=no
+OneTimeOnly=no
+SkipMapSelect=no
+TruckCrate=no
+FillSilos=no
+Percent=0
+Player=USSR
+
+[Map]
+Theater=SNOW
+X=1
+Y=1
+Width=126
+Height=126
+
+[Waypoints]
+1=1737
+0=1843
+2=6256
+7=6286
+99=7740
+3=9327
+6=9485
+5=14388
+4=14407
+
+[MapPack]
+1=XQIAIIICAP9IAAAAgUQAAv5gAP+DVABU/0kAAQD/UAD4AP8AAUoAgUUAAv5gAP//oACuAY
+2=fcAN0A3gDhAAKB4gACh9gA2QDaANtAFoHeAAaB3AAOgdoAFstcA9VsA1BIcCKBUgAC/5gA
+3=sgKBRgAC/kIA/4EAAAHXdgT/4gCuA9mPBYJRABAC/2QA5gSBHCACgTHo6wWBRyAC/l4A//
+4=WsBesWBoEwAAJQMuccBoFIAAL/YABMBoNWAFbuswbvEgfL4AflHgcRAP5gAP+BAP9BAK0H
+5=3yAIgRIgAjABgfogAoH74CEJgfwgAoP//7D/XQBLCOccCXCUEAKDAADCAASDKAAnAALj8A
+6=iBwSAC7RwJgbAAAv5YAP+DrgCu6BsKy9YJgcIgAhD+/14A7gn+XAD//2gAqAqDAgAuAAKB
+7=9yACgTQAAuO6CINDAEIAAv5gAP+DUABQ7q8IcM6BMyAC/yIB8AsQAjAy/5AAHgGCVQAQAv
+8=9kALINgfggAv/EABwOcc7/XgDqDv9kAEoC86oH8RQQ/5gAFhARAv+WALIQ/2IASgX1qA3/
+9=ZAHiEf9kAEgG96oG/2IB5BP/ZABICPesBP9iAeQV/2QASA33rAX/YgHkF4FDIAL+XgD/96
+10=4E/5oA5BmBr+hLG/+cAKoagwIAVwACgTwAAsmeG4VAAEAAQQACgTsAAs1MHMt4GxAqgT8A
+11=AoE+AAKBPQAC0UwcgVoAAv+iAK4bEL4QxhDOzVwcyVAdEBg9mBAe0YYczVAd9awc/2YA4h
+12=wQAs+WHddCHs14Hec+Hv+aALId87QP/2IAtAXZFh+A9AMAIIICANEAAIH4IALTAAD/SgAw
+13=AP9mABYA8XoA/7ACFgCDTgBNAAKBTAACgUsAAoFK/G0Dg04A+SACyQoEEFgQYIFMztMD/3
+14=4AQgOBWAACgU7OxQOFSgBPAEkAAjCsyRYEy8YEgUvQAwSBTgA8MDIQQhAqEBTJKASDSgBZ
+15=AAL/jgA6BIH/ysgFcQAQCnDOzcQEUNQwAhAa1RAFgQDIxwX/igA0BYFHIALLyAXPyAXL5A
+16=UwGIHcQAjRAAYQGIGt2sMGglUAEAL/pAA8BjABzxgHgdjK5wfL+AcQMP+mABgHgUgAAuHE
+17=B88YCIHZyucIy/gI4RMJg1AAUP+pADsI0eMJgdrKwQnL+AnfEwqCUQAQAv+CADwJgUIAAv
+18=PCCYHbysEKy/gK/+QAFApVANHyC98TDINSAFL/hQA5BoFDIALxxAuB3crDDMv4DP/kABQM
+19=gd7Kww3L+A3fEw6DUwBT/4cAOQWBRAAC8cQNgd/Kww7L+A7/aAAUDs0WBP+qAIwOg1QAVP
+20=yBD4EjAAIxAIEZIAL1QBCBRQAC8cQPgeDKwxDL+BD/YAAUEIEiIP7LehD1hBD/dgDAEPc2
+21=CIEhIAIQ/oPeALMAAoHiAAJRAIMBADHuPxKBRgAC8cQR2/gHMAEM9dTDEvU2EjD+MQATdh
+22=ECEX4xAIEfAQDtjhL1wBL9+AiDVgBW5pcTgS8gAlD8jyEA2gDbANwA3QDfAOMA4QACcQCB
+23=KwAC6ZAT5b4H/1AA5gkxAvM8FIHZAPyB2wEEhdkA2ACxAAJ3hIHfIQCBK/9zAJMU1QYL1R
+24=4T6zYJzWQUWW5Q/hEKgdkBElEA55IV9cATzQQW7QYM6zYWgRUgAhFMEu6B3wT6cQA3ehMS
+25=EIaB3f9pAI8WywYX7QYN6zYUMQAQ9oHfA+wQ8oHeAOqB3CL+MQAQDoHYIhiD3wAsIAL/YA
+26=CYF8sGGO0GDuk2FTD+EPgQAoHgJvIy8IPbALQgeBASEwaB3AEkEh7nkhj3vgnLBhntBhCF
+27=//8oACjwOxnLKhqBtAEAEQIwjDMEgd4AKv9kAJQZ+/gPhP//+gAQAoH74D0bgfwgAoG4AG
+28=KDtgC2JvCBuCAGg7cAvyACgbVAAoHhAB6BtigO5TgbMFqD//+w8MEaywYb6wYSg64AruaT
+29=G3EAgbgg4BACEAyBt855G4HkYCDrlBuBsAAC/24AxhHxNByB4APYE+iBtyH8gd4ACIHdIP
+30=6B3QQMgdwhABcGGoiB3+6TG/9CAMQR0wYT/0YAHBeBDyACMHAQBhZ6V36BtAD8y+wVgdsl
+31=AoElAAL/XgCaC8sGHv9eAAYJMQIxABIIgd8p/jUAMQqB2SIWNgqB3SD+/2AAmB5Q8oAMAw
+32=Aggf8gAYLaADAI5Q0AglEAEAKBAuQ7AIEPQAIQOoHgAAaB3wAEi9oA2ADZALEA2gDhAAIw
+33=gILgABAag9wAJSAC4UAAgUMgAusIANEAAIHb/2UABwCCDwAQ/lBygdwA/oGxAQQQ9oHbIP
+34=owCueUAPm8AMsGAYHc7MMBg1IAUuY7AcleAXEAg///3SEAgdghAIHcAASB4CIKgwUAMyAC
+35=5UACgUQAAvHEAcsGAoHd/2EABwKBLSACgwoADCDmEAKB3iEAMFCB3iH+g///Bf9pAI8Cyw
+36=YDEIDpCQSDUwBT9jkDgQwAbIPiAOIh+IGzAwAQDBCQgQQA/O+OA4FFAALxxAPLBgQTfv9k
+37=AAoEEP4wAoEAQQCB2gECEFKBBEEA6zoF974EywYF7QYFg1QAVO6PBVACUQKDCgD3IAIQ+j
+38=AC744FgwIARgAC/0IAxAXJbgL/eAASBvM8B/XABssGB+0GB4JVABAC+zoHgQ7KewfzPgiB
+39=RyAC/0IAxAeB2P9tAAcIUAKB+CAC+UAJ974IywYJNITpCwqDVgBW/4MAOwmBSAAC8cQJzQ
+40=QK7QYAMQL/vAA8Cvv4AIX//1AAUP+DADsLgUIAAvPCC/v4Af/CADYM+/gC6zYB/1oAZA33
+41=vgH7+AP/wgA2Dvv4BO82A/9WAGgP974D+/gF/9AANhDrBgiBACj+/4QAOgn3vgX5+Af/0g
+42=A0EusGCQ69DQD3OAf/TAB0E/XAB/n4CYEAAC7/wAA4FP34Cv9EADYT/0QAfBX1vg/9+Av/
+43=wAA4FlDyhTsAOwA8wIUCcBqBr+LFF/9EADYP/0QAfBeDAgBXAAKBPAAC3xYYyRIYgdwExH
+44=EAMAIwAcsSGIVAAEAAQQACUCj/mgAwGIE9AAKBPgACgT8gAhAKzcYYga9A4lABEBQQQlEA
+45=EOjDfAgQ7jBKzSAZEGYQGIFaAAL/hAA8FTAC18YZMBbNDBqBPiAYEBbJvhrTDBrPvBoxAP
+46=+GADoR46oa3+YaUAIwJv9aAIIb/2wAcBvxAhz/bAB8HP9uAHwc43wd//ABEB2AaAIAIIIC
+47=AMsAAIH4IALNAAD/VgAkAP9sABAA5XoA/0YAfACDTgBNAAKBStBFAYFLAAJQGIH5IAL/zg
+48=CCAIFYAAKBTmEAgUog8IFMAAIQEBAYMQCFSgBPAB9BAIFJAAJQItFcAdOKAv+gALgBgf8g
+49=Ac9eAlAY1XgCz14DUBiBWQAC/6AArgKBRyACMOThWQSBrc5TBNdeA//SAKoDgq0Az34E14
+50=8Fg1QAVP+hAK0EgUUAAv5YAP//AAGqBYJVABAC/54AsAaBRgAC/loA/4NWAFb//QCvB4EA
+51=/58ArQjtTgTtewqDUABQ//sArwmBUQD+/54ArgqBSAAC/loA/4JRABAC/5wBsAuBQgAC/l
+52=oA/4NSAFL/nwCtBv8AAUwOgUMgAv5YAP//ogCqBv8AAUwQgwIARAAC/lgA//2qB+N8ATAm
+53=gTH/2QAXEtkWE4EwAAJQJvMWE/9cAEwNGv71rgnjDBTL5hTxGBT/XgBMDfesCeEMFYESIA
+54=KDAADAAAKB+iACgfvsGxaB/CACg///sP9XAFEV1RYWgfziLRaBwyACgwAAJwAC/1wA9hWB
+55=sAAC/lIA/4OuAK7WFRfnxBYw/tv0FhAB+xYW/lQA//9CAKgXMAHX8BeDAgAuAAKBCCACgT
+56=QAAv+SABgPHgDzrhPjDBn/pAAMGfOwFecMGjAm/5YAFgr7qg/5EBvpJhuN2QDaANsA3ADd
+57=AN4A30AIgeEAAoHiAAKB2MxRHMtuHFAOgd4ADlAyEAiB4AAQgdwAGBEA+a4N/2AA6hzPTg
+58=eBANpRG9teHc9yHf2qD/9gAOod/1wAThP/AgGoHf2qDdPoH4AtBQAghAABAQAAAhAFEAhQ
+59=AlAJYBLtJwDIFADLGQDKWwCGAQACAwMCAAIQBRAIUAJQCVAQ7ycAEESCAAHJ2wAARiAEyt
+60=8AylwA0WoA8yEAILRgcthhAcmLAM2PAMiaAUFT4TcAYAnPbQERb8ztAcsaANcMAvAoAeCE
+61=AcyYANeLAu+oAMsCAlAOzRgAy10AgQLS9QIRS+yoAoMDBAXLggJQDgADEE7QkwICkIQEBQ
+62=ME0VgCgwABBfsoAMrrAiBnzmAAAJODBgcIAAPOXQAiPe0mBMtoAsiBAlBnzpcAMWQRuNKQ
+63=BPCoAtCWBCHLMerMFAMBFhDpERzQEAXsJAQxZM9YBRACYFLLeAURE4IEBTEcz5EF7SkC1I
+64=4FEAJADc8XAEEcz/sCIAPvqQDUkQIwZ898AgImz3YFMBjvJAQjUM4PABDJIGcAA9DwAhFo
+65=/0cAEAIA4dCNADQGyXIEzHwD1oQC7icEEs7REAYAAsnyBcrfB9PWB/MhB9JWBkEPAYDSfQ
+66=IAlv9IAI4HAQLWCAHMDgTJ5AiBAtP3Av9BACQIzGMG1F0CERnUWQjuJwkzadBeACSc0/UI
+67=zfIIyAMJ+iYHzHkIyHUEy30J1VYGEpj9pwfLGArN2AljAND0AvQiCcx1A8uYCtOPCCEZ/0
+68=gAkQnP9ArRAwfN/gL/VAAPB81fC8lVDMmAByd9/1wAkAfJAQXR9QvI8gv9FgrNVwvMfAXT
+69=egLIcgz8lgrR1gvRAgzn/QdSA80eDEdWziEO2YsCcefmfQhQz8ugDs1wBnAlyw4NSuDdBA
+70=pRGdD3DliaGzhwDkizO03KJA/Ljg3Nmg7cWw7WlQ4w3HjaIMxSbMi0DtjXDTMAAQvQ3g/Y
+71=CwdgzspTDiDMQAjKVA7TVw0fcmMA0lgQ1o0HYNExDc3pDC/tyPUPzA0Gy+0KytMQ3/8N0R
+72=QQzWkNzXgN01sMUSLJjAbJaQ9hgMhqBtF2ENkABs/kCmL4w38AUwBQWnApEAUgE8Z5AMzU
+73=D8seENOGBsxSEctTDjUYzd0RMAIAcUGAyiYQ0VwKzrMP18ISMW9El4EFMj5N6shXEkEAQc
+74=1QMBDa0hgRyKIS2osOyIQEcAGBBTBnYJVz/M8jBtRzDNCzEdbbCtGjDdUkDM2jDDGQziAS
+75=0X8G2FkJ3voT3D0CzqASzOYIyCAUzh8R8iIEzM0CyNETyrYOUYDKWAfOkgvxIwvLTgPIUR
+76=TJVRRhgNsJAvvfFN0JAlMz6EUT/CwCzlAV0v8A29UT/0sA8xXTiwbLVBL/WABiFsTlAXAS
+77=1BMQ2QIX2u4T3B8XAHEktxCD2lYG/1MAYxfCCwXDiwUQBIEJ19QP+uAX0x0TIlggfSAXhA
+78=sMDQ7VmRj6XhfJPhfNThmICAkKCwkKAAAS34MREhMALGEDyS0Y86II084DyNYYAPKCDxBB
+79=O4UBARYXGAAVgQhRA86xFvhhFdGgFQEXhBITFBVhoyABAY7Qxhj83RbLIxrIthSFGBkaGx
+80=wxo0ApEZDPRxn7XRXFVgHMoxoy0zBYEoMwAQGS0cYY+uAZ0/AKIvhAgYIJCsg1Dsx8Dvaf
+81=CMzOCMxRHAFqEG3G5wZuhBCY/0UAEwjRTglwgQL8gQEYamkjUAECAvNNHNfgHAFT0NwEEv
+82=MykV8AWZpgA0Aoxe4E7mwdxlAF0VsFHvMBbUOMJQgQBckjHjAoQC30Yx0rXtHbBcGlBYEB
+83=H3WBBDMAA3ozDHAnMChQLfTkHdXuAg0h0PMe1tIP+WIbz5wRggABBu9geESAIKRBk+xRHY
+84=A4BQAggQDYAACEAQIAAc0eAIYCAw0ODxAAHAACECMgAyABgwkKC88eABBE9WIAhQMEBQID
+85=zZ4AhwABExQVFhdgI0CqhgEADA0OAM+eAABE9mIAUMIwA2AChQABGxwdQPWCBgcwHCErgQ
+86=IQntBOAfViAWDEIANgAhBmEVUQW4IJCkCpggQF0psAITL94wAx5XDOgQEAa4MBBQZR/QAD
+87=hAQGBwgAA9AfAv9EAF8BIPRwC4ICAwBrhQoKCwwNAXwiAIIICQEIIpzOoQLh3wHWYQLRTw
+88=FgAoQRERITEfgQiYQODAACAK/QJgPaXwLcYQLTzAFQAoQWFhcYEYqEDxAREmD7z84A+uAC
+89=RADSTwGFARwcHQ4BigOOAP3OUgPhWADcfANi0tHKAzNsE9+BAc6aA/9IANQAzlAEzCMAIo
+90=o0ldFPA/xcAhECzKIEzKMAIIYkD9HOA+XbAuIBAtQlBiGA1EwB/VsB3ZkDyDoF2cMG+eIF
+91=0B0AQd9FCsobB9EmBP9RAF8AQd9FCsqbB9GmBP9EAN8A0yIEIALSSQLtUgbVYQjZwQdjBF
+92=Xu8ccG3WEI0BwHzEUIIV/dHQb1YwjRmwfMxQgTAPfBBt5hCdkeCGXf2kcJ+l4G2p0IVd/a
+93=xAn/RgDdBtFPCjAJcwDXSAr/QgBhB9DPCnoK3MEK3t8H2WEKyR0L0ksLN4DbRQrbXwpGyn
+94=CIyF4MypwL0ssLNgDaxQpnK8lfDMhkDIEBEGVCynpEVtPYJQrhOgonHMqdC2IVzFgNIOwA
+95=IIEEIGBAM9PFA8vUBNzECcpCBjBYyrwNMGMcykLKOjRU4Ebr0hwCyDsI1kwMy8EFWyIAN1
+96=BmMRKBAj0/cXtgCzbr0dMMyboI1swMyhINgQFwV4ECUexQqtM+DFA7zywNybgE2UkMaivJ
+97=4Q4AN4EDecAgAtG+DHA5cQ9QEjEk174Gyp4PyTIFRjeBAUANyC4P0k4NyVcLzOIPMzDaIw
+98=3UXg8iZsvnDxET0c8NyNEPEDDIsA8ADMi9C2Fby5kQyRIOcG8ewcz5DxETYbfIVxDN5RDK
+99=JBFCNs+rEBAiyC0JcDdzAMzmD0AKzK0NyYwPJclDuDAMgQEQScyyBVIoEArIZw3O3xFzC2
+100=KT1EgQ2lsLZUnKrxHNQQXNZRER7UBcyO0P1JwI2dsL1eAKyH0R1KoGybIEUwDZIAvqYQpS
+101=CdRNA3Nty34Q2aAL6uEK1JwLQVvIhhBDxQACQwBR/skTEt1cA+cJBs82CDZvypoNfOHKnA
+102=HubwXaygzO3AxjytEXE+9fC9ZNDHNtyMkRZgDIkRL60gfcxg4jAN/6D8cqAu4nFN1ACsh3
+103=DdeCEMeqAuynFN6+Dcn2DTDfyggR/0EATwpw4NJfFcp1FDGJyogR/c8KzdUPzYwXzfUUQp
+104=PNZBfKWRD/TADwBVBty+oPzosTyJwU66cV4J4GeVPJOA3MYxf2HBd5O8lrE2dPyAgWyO0U
+105=BLXM4xf1nBcS4MieGcyvCyttUHlA2SeTgQTVRgfwJBfaWhYgbXMAxLACRQPQkhchUP9DAK
+106=oUyLYMWANkkBCRIRnWDxvtKhdQA88XG8M+Bsh7EwAQggYHIRbWjRvppxoxYVADz5cbwD4B
+107=NQNBABSQLgPYCxzqqhjKGhzSFxxYcHOGARDV2xrxJBfU3hVATmhwMvJPE88YETB68KQXzS
+108=QByGYdQG19VX4AzpkRyq0B6ysZ1tsVawDOQQXZXBrMTBrYQhohANRAD9ALENbcFfnVCs/C
+109=BNSeCt8cBvFbBuH8Hst6E/9OAMEG3L8LyOoTgA==
+
+[OverlayPack]
+1=IwEAIIH//qYA/4QFBwYIQASDBwUIQASCBgYABxATAAeBBTAJggUIEAyCBwX+UAD/YH4QYI
+2=EHQIYgchB+AAQgESB8IAb+Fwj/gRj/RwBLCf7HCf+CBQb+fgD/hQcI//8I/3sAfhPBVQGC
+3=Bwf+egD/EYCBBQEE/ngA/4EIAPyBCOdWAeaSCeWsFSGA/3sAAhTB1QD/fAABFRIA6IEV/l
+4=EA/4EGAPz/fABVARH8gQX/ewCCFBF8gQj6ghaBFf9CAMAX/3wAAhYBfP9SANUA61MX+4EY
+5=/L8WAPwQhP54AP8RgP99AAEYFID/ewACGRGA/4AAgRn/fACBFhIA/3wAARf/gAB9GvT9Gc
+6=i/GIEW+rUYFXz/fACBFxH8/3wAARsSAP99AAEUggj/gDEBACCD/wUI/noA/4YHBv//CAX+
+7=egD/gggHAIQABP54AP+BBQB8gQb/gACCAP97AAIAgQYAfPuBAYEV+0ACAHwRhP54AP8SfP
+8=99AIEAA4D/fAABA4EFAID/fACBARD8/4AAAQCBB/98AIIDEwAAhP54AP8R/BKE/ngA/xUA
+9=EATmBAeBGP5OAP8SAP98AAEGEvyBBf/7AIIBEYAWhP54AP+BBhSA/3wAAgP/UwB+BukuBx
+10=B8/3wAgQYRfP98AIEFKQD/fwCCCP58AP//fACBA1OA/m4J//9PAC4H/lIA//+hAG8W/vcG
+11=/5EHBQUHBwYIBQYHCAgGBwcFCDAPMAWFBQYFBwYAFIIIBhAggQX/VACBCoEIMG6DBwgGIH
+12=4QeIIIBwB2EAUAHBAPAIUADiAH/qkA/4H/gA==
+
+[General]
+BailCount=10
+GoldValue=150
+GemValue=150
+GrowthRate=.02
+OreSpreads=no
+
+[AI]
+AttackInterval=2
+AttackDelay=3
+AutocreateTime=4
+InfantryReserve=9000
+BaseSizeAdd=999
+RefineryRatio=.26
+RefineryLimit=6
+BarracksLimit=1
+WarRatio=.26
+WarLimit=2
+DefenseLimit=6
+TeslaRatio=.16
+TeslaLimit=20
+HelipadRatio=.1
+HelipadLimit=5
+AirstripRatio=.12
+AirstripLimit=15
+CompEasyBonus=No
+PowerEmergency=90%
+
+[England]
+Firepower=1.1
+Armor=1.0
+
+[France]
+Firepower=1.1
+ROF=1.0
+
+[Greece]
+Firepower=1.1
+
+[Turkey]
+Firepower=1.1
+
+[Spain]
+Firepower=1.1
+
+[STNK]
+TechLevel=8
+
+[CARR]
+TechLevel=8
+
+[Base]
+Count=0
+Player=USSR
+
+[TERRAIN]
+6333=T12
+6337=T11
+6458=T13
+6461=T01
+6464=T02
+6465=T03
+6598=T10
+6707=T15
+6712=T14
+6722=T05
+6723=TC01
+6841=T17
+6848=TC02
+6965=TC02
+6843=TC04
+6981=T06
+6984=T11
+7091=T16
+7222=T08
+7097=T10
+7105=TC03
+7111=T16
+7218=T17
+7236=T16
+7351=TC01
+7353=T07
+7355=T11
+7357=TC01
+7360=TC02
+7363=TC01
+7367=T16
+7370=T12
+7477=TC02
+7496=T17
+7497=T13
+7864=T16
+7866=T17
+7875=TC02
+7878=TC02
+7989=TC03
+7868=TC05
+8001=TC01
+8006=T16
+8008=T14
+8010=T14
+8118=TC01
+8130=T17
+8132=T15
+8121=TC04
+8256=T17
+8263=T17
+8374=T17
+8376=T16
+8377=T12
+8379=TC01
+8389=T15
+8392=T15
+8508=T13
+8512=T17
+8513=TC02
+8633=T17
+8643=T14
+8646=T16
+8764=T17
+8770=TC01
+8898=T17
+
+; RULES.INI
+; If placed in game directory, it will override built in values. Values to be used as multipliers
+; or percentages can be specified as either a simple floating point number (embed ".") or as a
+; conventional percentage number (append "%"). Values used as cell distances or time delays
+; are specified as simple floating point number. Distance values are expressed in cells. Time
+; values are expressed in minutes.
+
+[General]
+
+; crates
+CrateMinimum=4          ; crates are normally one per human player but never below this number
+CrateMaximum=255        ; crates can never exceed this quantity
+CrateRadius=3.0         ; radius (cells) for area effect crate powerup bonuses
+CrateRegen=3            ; average minutes between random powerup crate regeneration
+UnitCrateType=MCV       ; specifies specific unit type for unit type crate ['none' means pick randomly]
+WaterCrateChance=33%    ; chance that a water crate will be generated rather than land crate [multiplay only]
+SoloCrateMoney=3000     ; money to give for money crate in solo play missions
+SilverCrate=HealBase    ; solo play silver crate bonus
+WaterCrate=Money        ; solo play water crate bonus
+WoodCrate=Money         ; solo play wood crate bonus
+
+; special weapons
+ChronoDuration=3        ; time that a unit will remain chronoshifted before returning to start location
+ChronoKillCargo=yes     ; Should cargo be destroyed when object is chronoshifted?
+ChronoTechLevel=12      ; Tech level at which Chrono facility can create Chrono effect
+GPSTechLevel=8          ; tech level at which GPS satelite becomes available
+GapRadius=10            ; radius of gap generator (cells)
+GapRegenInterval=.1     ; gap generators will regenerate their shroud at this time interval
+IronCurtain=.75         ; minutes that Iron Curtain invulnerability lasts
+ParaTech=5              ; tech level when free para-infantry appears from airstrip
+ParabombTech=8          ; tech level that parabomb appears free with airfield
+RadarJamRadius=15       ; cell radius distance that mobile radar jammer is effective
+SpyPlaneTech=5          ; tech level when free spy plane appears from airstrip
+BadgerBombCount=1       ; number of badgers used to drop parabombs
+
+; Chrono side effects
+QuakeChance=20%         ; percentage chance time quake will occur with each chronoshift use
+QuakeDamage=33%         ; percentage damage to inflict when time quake occurs
+VortexChance=20%        ; percent chance that chronal vortex occurs with each chronoshift use
+VortexDamage=200        ; damage inflicted by vortex discharge
+VortexRange=10          ; scan for victims up to this distance away [in cells]
+VortexSpeed=10          ; speed of vortex movement
+
+; repair and refit
+RefundPercent=200%      ; percent of original cost to refund when building/unit is sold
+ReloadRate=.04          ; minutes to reload each ammo point for aircraft or helicopters
+RepairPercent=5%        ; percent cost to fully repair as ratio of full cost
+RepairRate=.032         ; minutes between applying repair step
+RepairStep=7            ; hit points to heal per repair 'tick' for buildings
+URepairPercent=20%      ; [units only] percent cost to fully repair as ratio of full cost
+URepairStep=20          ; [units only] hit points to heal per repair 'tick' for units
+
+; combat and damage
+TurboBoost=1.5          ; speed multiplier for turbo-boosted weapons when firing upon aircraft
+APMineDamage=1000       ; damage to inflict when anti-personnel mine explodes
+AVMineDamage=1200       ; damage to inflict when anti-vehicle mine explodes
+AtomDamage=5000         ; damage points when nuclear bomb explodes (regardless of source)
+BallisticScatter=1.0    ; maximum scatter distance (cells) for inaccurate ballistic projectiles
+BridgeStrength=1000     ; strength of bridge [smaller means more easily destroyed]
+C4Delay=.03             ; minutes to delay after placing C4 before building will explode
+Crush=1.5               ; if this close (cells) to crushable target, then crush instead of firing upon it (computer only)
+ExpSpread=.3            ; cell damage spread per 256 damage points for exploding object types [if Explodes=yes]
+FireSupress=1           ; radius from target to look for friendlies and thus discourage firing upon, if found
+HomingScatter=2.0       ; maximum scatter distance (cells) for inaccurate homing projectiles
+MaxDamage=1000          ; maximum damage (after adjustments) per shot
+MinDamage=1             ; minimum damage (after adjustments) per shot
+OreExplosive=no         ; Does the harvester explode big time when destroyed?
+PlayerAutoCrush=no      ; Will player controlled units automatically try to crush enemy infantry?
+PlayerReturnFire=no     ; More aggressive return fire from player controlled objects?
+PlayerScatter=no        ; Will player units scatter, of their own accord, from threats and damage?
+ProneDamage=50%         ; when infantry is prone, damage is reduced to this percentage
+TreeTargeting=no        ; Automatically show target cursor when over trees?
+Incoming=10             ; If an incoming projectile is as slow or slower than this, then
+                        ; object in the target location will try to run away. Grenades and
+                        ; parachute bombs have this characteristic.
+
+; income and production
+BailCount=28            ; number of 'bails' carried by a harvester
+BuildSpeed=.5           ; general build speed [time (in minutes) to produce a 1000 credit cost item]
+BuildupTime=.14         ; average minutes that building build-up animation runs
+GemValue=50             ; gem credits per 'bail' carried by a harvester
+GoldValue=40            ; gold credits per 'bail' carried by a harvester
+GrowthRate=0.6          ; minutes between ore (Tiberium) growth
+OreGrows=yes            ; Does ore grow denser over time?
+OreSpreads=yes          ; Does ore spread into adjacent areas?
+OreTruckRate=1          ; speed that harvester truck manages ore [larger means slower]
+SeparateAircraft=no     ; Is first helicopter to be purchased separately from helipad?
+SurvivorRate=2.5        ; fraction of building cost to be converted to survivors when sold
+
+; audio/visual map controls
+AllyReveal=yes          ; Allies automatically reveal radar maps to each other?
+ConditionRed=25%        ; when damaged to this percentage, health bar turns red
+ConditionYellow=50%     ; when damaged to this percentage, health bar turns yellow
+DropZoneRadius=4        ; distance around drop zone flair that map reveals itself
+EnemyHealth=yes         ; Show enemy health bar graph when selected?
+Gravity=3               ; gravity constant for ballistic projectiles
+IdleActionFrequency=.1  ; average minutes between infantry performing idle actions
+MessageDelay=.6         ; time duration of multiplayer messages displayed over map
+MovieTime=.06           ; minutes that movie recorder will record when activated (debug version only)
+NamedCivilians=no       ; Show true names over civilians and civilian buildings?
+SavourDelay=.03         ; delay between scenario end and ending movie [keep the delay short]
+ShroudRate=4            ; minutes between each shroud creep process [0 means no shadow creep]
+SpeakDelay=2            ; minutes between EVA repeating advice to the player
+TimerWarning=2          ; if mission timer is less than this many minutes, then display in red
+FlashLowPower=yes       ; Flash the power bar when power is low?
+
+; computer and movement controls
+CurleyShuffle=no        ; Should helicopter shuffle position between shots (as in C&C)?
+BaseBias=2              ; multiplier to threat target value when enemy is close to friendly base
+BaseDefenseDelay=.25    ; minutes delay between sending response teams to deal with base threat
+CloseEnough=2.75        ; If distance to destination less than this, then abort movement if otherwise blocked.
+DamageDelay=1           ; minutes between applying trivial structure damage when low on power
+GameSpeedBias=1         ; multiplier to overall game object movement speed
+LZScanRadius=16         ; maximum radius to scan for alternate landing zone if otherwise occupied
+MineAware=yes           ; Are friendly units smart enough to avoid friendly mines?
+Stray=2.0               ; radius distance (cells) that team members may stray without causing regroup action
+SubmergeDelay=.02       ; forced delay that subs will remain on surface before allowing to submerge
+SuspendDelay=2          ; minutes that suspended teams will remain suspended
+SuspendPriority=20      ; teams with less than this priority will suspend during base defense ops
+TeamDelay=.6            ; interval between checking for and creating teams
+
+; misc
+FineDiffControl=no      ; Allow 5 difficulty settings instead of only 3 settings?
+MCVUndeploy=yes         ; Allow construction yard to undeploy back into MCV?
+
+[Aftermath]
+NewUnitsEnabled=1
+MTankDistance=20
+QuakeUnitDamage=45%
+QuakeBuildingDamage=40%
+QuakeInfantryDamage=0
+QuakeDelay=120
+CarrierLaunchDelay=30
+ChronoTankDuration=2
+EngineerDamage=50%
+EngineerCaptureLevel=25%
+
+; ******* Theme Controls *******
+; Controls when each theme becomes available in solo play. Each
+; theme identifier is given a scenario and owner. The theme will
+; become available at that scenario or later and for the specified
+; owner only. If no owner is specified, it is presumed to be available
+; for all sides.
+[ThemeControl]
+BIGF226M=1,Soviet
+CRUS226M=1,Allies
+FAC1226M=1,Soviet
+HELL226M=1
+FAC2226M=2,Soviet
+RUN1226M=2,Soviet
+TREN226M=3,Soviet
+WORK226M=3,Allies
+AWAIT=4
+DENSE_R=5,Soviet
+FOGGER1A=5,Allies
+MUD1A=6
+RADIO2=7,Soviet
+ROLLOUT=7,Allies
+SNAKE=8
+TERMINAT=9,Soviet
+TWIN=9,Allies
+VECTOR1A=10
+SMSH226M=11
+
+
+; ******* Multiplayer Settings *******
+; These are the multiplayer dialog default settings. Does not apply to
+; Westwood chat, only to the in-game dialogs.
+[MultiplayerDefaults]
+Money=10000
+MaxMoney=10000
+ShadowGrow=no
+Bases=yes
+OreGrows=yes
+Crates=yes
+AIPlayers=no
+CaptureTheFlag=no
+
+
+; ******* Special weapon charge times *******
+; The time (minutes) for recharge of these special weapons.
+[Recharge]
+Chrono=7                ; chronosphere
+GPS=8                   ; satellite radar
+IronCurtain=11          ; invulnerability device
+Nuke=13                 ; nuclear missile
+ParaBomb=14             ; parachute bombs
+Paratrooper=7           ; paratroopers
+Saboteur=14             ; para-saboteur
+Sonar=10                ; sonar pulse
+SpyPlane=1              ; recon mission
+
+
+; ******* Object Heap Maximums *******
+; These are the absolute maximum number of these object types
+; allowed in the game (at any one time).
+[Maximums]
+Players=8               ; ipx layer limits this to 8 maximum
+Aircraft=100
+Anim=100
+Building=500
+Bullet=50
+Factory=32              ; 32 is minimum for 8 player game
+Infantry=500
+Overlay=1               ; special case -- only needs one
+Projectile=20           ; projectile types, not actual projectiles
+Smudge=1                ; special case -- only needs one
+Team=60
+TeamType=60
+Template=1              ; special case -- only needs one
+Terrain=500             ; trees and rocks
+TrigType=80             ; trigger types
+Trigger=200             ; triggers themselves
+Unit=500
+Vessel=100
+Warhead=10              ; warhead types, not actual warheads
+Weapon=55               ; weapon types, not actual weapons
+
+
+; ******* AI Controls *******
+; Computer Skirmish-Mode behavior controls. The ratio values are based on the
+; number of buildings in the computer base that should be of the type specified.
+; The ratio total should exceed 100% so that the base will always try to grow as
+; it vainly attempts to achieve the specified percentage composition.
+
+; Take note: The computer AI in Red Alert is merely a warmed over version
+; of the AI experiment I wrote during the unallocated time in the month
+; following C&C's release. It was more than adequate at that time (even
+; difficult to beat), but since Red Alert is a very different game, the skirmish
+; mode AI is somewhat under-effective. In order to improve the AI
+; over this initial experiment, the following controls are provided. It might
+; be possible to manipulate these values to achieve a greater challenge when
+; playing the computer opponent.
+[AI]
+AttackInterval=3        ; average delay between computer attacks
+AttackDelay=5           ; average delay time before computer begins first attack
+PatrolScan=.016         ; minute interval between scanning for enemys while patrolling.
+CreditReserve=100       ; Structure repair will not begin if available cash falls below this amount.
+PathDelay=.01           ; Delay (minutes) between retrying when path is blocked.
+OreNearScan=6           ; cell radius to scan when harvesting a single patch of ore
+OreFarScan=48           ; cells radius to scan when looking for a new ore patch to harvest
+AutocreateTime=5        ; average minutes between creating an 'autocreate' team
+InfantryReserve=3000    ; always build infantry if cash reserve is greater than this
+InfantryBaseMult=1      ; build infantry if building count times this number is less than current infantry quantity
+PowerSurplus=50         ; build power plants until power surplus is at least this amount
+BaseSizeAdd=3           ; computer base size can be no larger than the largest human opponent, plus this quantity
+RefineryRatio=.16       ; ratio of base that should be composed of refineries
+RefineryLimit=4         ; never build more than this many refineries
+BarracksRatio=.16       ; ratio of base that should be composed of barracks
+BarracksLimit=2         ; never build more than this many barracks
+WarRatio=.1             ; ratio of base that should be composed of war factories
+WarLimit=2              ; never build more than this many war factories
+DefenseRatio=.4         ; ratio of base that should be defensive structures
+DefenseLimit=40         ; maximum number of defensive buildings to build
+AARatio=.14             ; ratio of base that should be anti-aircraft defense
+AALimit=10              ; maximum number of anti-aircraft buildings to build
+TeslaRatio=.16          ; ratio of base that should be telsa coils
+TeslaLimit=10           ; maximum number of tesla coils to build
+HelipadRatio=.12        ; ratio of base that should be composed of helipads
+HelipadLimit=5          ; maximum number of helipads to build
+AirstripRatio=.12       ; ratio of base that should be composed of airstrips
+AirstripLimit=5         ; maximum number of airstrips to build
+CompEasyBonus=yes       ; When more than one human in game, computer player goes to "easy" mode?
+Paranoid=yes            ; Will computer players ally with each other if the situation looks bleak?
+PowerEmergency=75%      ; sell buildings to raise power level if it falls below this percentage
+
+
+; ******* IQ setting for computer activity *******
+; Each player (computer controlled or otherwise) is given an IQ rating that is used
+; to control what the computer is allowed to automatically control. This is
+; distinct from the difficulty setting. The higher the IQ setting, the more autonomous
+; and intelligent the side will behave. Each ability is given a rating that
+; indicates the IQ level (or above) that the ability will be granted. Because such
+; abilities are automatically performed by the computer, giving a human controlled
+; country a high IQ is not recommended. Otherwise the player's units will start to
+; automatically "do their own thing"! A human controlled country is presumed to have
+; an IQ rating of zero. A computer controlled country has an IQ of 1 or higher.
+; When in skirmish mode or when multiplayer AIs are active, the computer IQ is set to
+; the maximum.
+[IQ]
+MaxIQLevels=5           ; the maximum number of discrete IQ levels
+SuperWeapons=4          ; super weapons are automatically fired by computer
+Production=5            ; building/unit production is automatically controlled by computer
+GuardArea=4             ; newly produced units start in guard area mode
+RepairSell=1            ; allowed to choose repair or sell of damaged buildings
+AutoCrush=2             ; automatically try to crush antogonists if possible
+Scatter=3               ; will scatter from incoming threats [grenades and such]
+ContentScan=4           ; will consider contents of transport when picking good target
+Aircraft=4              ; automatically replace aircraft or helicopters
+Harvester=2             ; automatically replace lost harvesters
+SellBack=2              ; allowed to sell buildings
+
+
+; ******* Country Statistics *******
+; Certain countries have special adjustments to their unit and building
+; values. These are global values that affect ALL units and buildings owned
+; by that country. This applies only to multiplayer games and skirmish mode. In
+; normal game play, all values are "1.0".
+
+; Airspeed = multiplier to speed for all air units [larger means faster] (def=1.0)
+; Armor = multiplier to armor strength for all units and buildings [larger means stronger] (def=1.0)
+; Cost = multiplier to cost for all units and buildings [larger means costlier] (def=1.0)
+; Firepower = multiplier to firepower for all weapons [larger means more damage] (def=1.0)
+; Groundspeed = multiplier to speed for all ground units [larger means faster] (def=1.0)
+; ROF = multiplier to Rate Of Fire for all weapons [larger means slower ROF] (def=1.0)
+; BuildTime = multiplier to general object build time [larger means longer to build] (def=1.0)
+
+[England]
+Firepower=1.0
+Groundspeed=1.0
+Airspeed=1.2
+Armor=1.3
+ROF=1.0
+Cost=0.9
+BuildTime=1.1
+
+[Germany]
+Firepower=1.3
+Groundspeed=1.2
+Airspeed=1.1
+Armor=1.3
+ROF=1.0
+Cost=1.2
+BuildTime=0.9
+
+[France]
+Firepower=1.1
+Groundspeed=1.0
+Airspeed=1.2
+Armor=1.0
+ROF=1.3
+Cost=1.1
+BuildTime=1.0
+
+[Ukraine]
+Firepower=1.1
+Groundspeed=1.2
+Airspeed=1.0
+Armor=1.1
+ROF=1.0
+Cost=1.0
+BuildTime=1.0
+
+[USSR]
+Firepower=1.1
+Groundspeed=1.0
+Airspeed=1.0
+Armor=1.1
+ROF=1.0
+Cost=0.9
+BuildTime=1.0
+
+[Greece]
+Firepower=0.8
+Groundspeed=0.9
+Airspeed=0.9
+Armor=0.8
+ROF=0.9
+Cost=0.7
+BuildTime=1.1
+
+[Turkey]
+Firepower=1.0
+Groundspeed=1.0
+Airspeed=1.0
+Armor=0.9
+ROF=1.0
+Cost=0.8
+BuildTime=1.0
+
+[Spain]
+Firepower=1.0
+Groundspeed=1.0
+Airspeed=1.0
+Armor=1.0
+ROF=1.0
+Cost=0.8
+BuildTime=1.0
+
+
+; ******* Difficulty Settings *******
+; Game difficulty is controlled by these factors. Some of these factors will
+; only affect a computer player. The computer and the player are handicapped by
+; individual settings. Thus the computer may be playing at 'difficult' level while the
+; player may be playing at 'easy' level.
+
+; Airspeed = multiplier to speed for all air units (def=1.0)
+; Armor = multiplier to armor strength for all units and buildings (def=1.0)
+; Cost = multiplier to cost for all units and buildings (def=1.0)
+; Firepower = multiplier to firepower for all weapons (def=1.0)
+; Groundspeed = multiplier to speed for all ground units (def=1.0)
+; ROF = multiplier to Rate Of Fire for all weapons [larger means slower ROF] (def=1.0)
+; BuildSlowdown = Should the computer build slower than the player (def=no)?
+;  <<< affects the computer player, not the human player >>>
+;    ContentScan = Should the contents of a transport be considered when picking best target (def=no)?
+;    RepairDelay = average delay (minutes) between initiating building repair
+;    BuildDelay = average delay (minutes) between initiating construction
+;    DestroyWalls = Allow scanning for nearby enemy walls and destroy them (def=yes)?
+
+[Easy]
+Firepower=1.2
+Groundspeed=1.2
+Airspeed=1.2
+BuildTime=.8
+Armor=1.2
+ROF=.8
+Cost=.8
+RepairDelay=.001
+BuildDelay=.001
+DestroyWalls=yes
+ContentScan=yes
+
+[Normal]
+Firepower=1.0
+Groundspeed=1.0
+Airspeed=1.0
+BuildTime=1
+Armor=1.0
+ROF=1.0
+Cost=1.0
+RepairDelay=.02
+BuildDelay=.03
+BuildSlowdown=yes
+DestroyWalls=yes
+ContentScan=yes
+
+[Difficult]
+Firepower=.8
+Groundspeed=.8
+Airspeed=.8
+BuildTime=1.0
+Armor=.8
+ROF=1.2
+Cost=1.0
+RepairDelay=.05
+BuildDelay=.1
+BuildSlowdown=yes
+DestroyWalls=no
+
+
+; ******* Unit Statistics *******
+; Specifies the characteristics of the various game objects.
+
+; Ammo = number of rounds carried between reloads [-1 means unlimited] (def=-1)
+; Armor = the armor type of this object [none,wood,light,heavy,concrete] (def=none)
+; Cloakable = Is it equipped with a cloaking device (def=no)?
+; Cost = cost to build object (in credits)
+; Explodes = Does it explode violently when destroyed [i.e., does it do collateral damage] (def=no)?
+; GuardRange = distance to scan for enemies to attack (def=use weapon range)
+; Image = name of graphic data to use for this object (def=same as object identifier)
+; Invisible = Is completely and always invisible to enemy (def=no)?
+; Owner = who can build this [Allies or Soviet] (def="allies,soviet", i.e., all)
+; Points = point value for scoring purposes (def=0)
+; Prerequisite = list of buildings needed before this can be manufactured (def=no requirement)
+; Primary = primary weapon equipped with (def=none)
+; Secondary = secondary weapon equipped with (def=none)
+; ROT = Rate Of Turn for body (if present) and turret (if present) (def=0)
+; Reload = time delay between reloads (def=0)
+; SelfHealing = Does the object heal automatically up to half strength (def=no)?
+; Sight = sight range, in cells (def=1)
+; Strength = strength (hit points) of this object
+; TechLevel = tech level required to build this [-1 means can't build] (def=-1)
+; Sensors = Has sensors to detect nearby cloaked objects (def=no)?
+; DoubleOwned = Can be built/owned by all countries in a multiplayer game (def=no)?
+;  <<< applies only to infantry types >>>
+;    C4 = Equipped with building sabotage explosives [presumes Infiltrate is true] (def=no)?
+;    Fraidycat = Is it inherently afraid and will panic easily (def=no)?
+;    Infiltrate = Can it enter a building like a spy or thief (def=no)?
+;    IsCanine = Should special case dog logic be applied to this?
+;  <<< applies only to moving units (not buildings) >>>
+;    Passengers = number of passengers it may carry (def=0)
+;    Speed = speed of this object [n/a for buildings] (def=0)
+;  <<< applies only to terrestrial driving vehicle types >>>
+;    Crushable = Can it be crushed by a heavy tracked vehicle (def=no)?
+;    Tracked = Is this vehicle tracked [as opposed to wheeled] (def=no)?
+;    NoMovingFire = The vehicle must stop before it can fire (def=no)?
+;  <<< applies only to building types >>>
+;    BaseNormal = Considered for building adjacency checks (def=yes)?
+;    Adjacent = distance allowed to place from other buildings (def=1)
+;    Bib = Should the building have an attached bib (def=no)?
+;    Capturable = Can this building be infiltrated by a spy/engineer (def=no)?
+;    Crewed = Does it contain a crew that can escape (def=no)?
+;    Power = power output [positive for output, negative for drain] (def=0)
+;    Powered = Does it require power to function (def=no)?
+;    Repairable = Can it be repaired (def=yes)?
+;    Storage = the number of credits this building can store (def=0)
+;    Unsellable = Cannot sell this building (even if it can be built)?
+;    WaterBound = Is this building placed on water only (def=no)?
+
+; ******* terrestrial driving vehicle types *******
+; SCUD launcher
+[V2RL]
+Prerequisite=weap,dome
+Primary=SCUD
+Strength=150
+Armor=light
+TechLevel=4
+Sight=5
+Speed=7
+Owner=soviet
+Cost=700
+Points=40
+ROT=5
+Tracked=yes
+Ammo=1
+Crewed=yes
+NoMovingFire=yes
+
+; light tank
+[1TNK]
+Prerequisite=weap
+Primary=75mm
+Strength=300
+Armor=heavy
+TechLevel=4
+Sight=4
+Speed=9
+Owner=allies,soviet
+Cost=650
+Points=30
+ROT=5
+Tracked=yes
+Crewed=yes
+
+; heavy tank
+Secondary=Vulcan
+[3TNK]
+Prerequisite=weap
+Primary=105mm
+Secondary=105mm
+Strength=400
+Armor=heavy
+TechLevel=4
+Sight=5
+Speed=7
+Owner=soviet
+Cost=1000
+Points=50
+ROT=5
+Tracked=yes
+Crewed=yes
+
+; medium tank
+[2TNK]
+Prerequisite=weap
+Primary=90mm
+Strength=400
+Armor=heavy
+TechLevel=6
+Sight=5
+Speed=8
+Owner=allies
+Cost=800
+Points=40
+ROT=5
+Tracked=yes
+Crewed=yes
+
+; Mammoth tank
+Secondary=MammothTusk
+[4TNK]
+Prerequisite=weap,stek
+Primary=120mm
+Secondary=MammothTusk
+Strength=600
+Armor=heavy
+TechLevel=10
+Sight=6
+Speed=4
+Owner=soviet
+Cost=1700
+Points=60
+ROT=5
+Tracked=yes
+SelfHealing=yes
+Crewed=yes
+
+; mobile radar jammer
+[MRJ]
+Prerequisite=weap,dome
+Strength=110
+Armor=light
+TechLevel=12
+Sight=7
+Speed=9
+Owner=allies
+Cost=600
+Points=30
+ROT=5
+Tracked=yes
+Crewed=yes
+
+; mobile gap generator
+[MGG]
+Prerequisite=weap,atek
+Strength=110
+Armor=light
+TechLevel=11
+Sight=4
+Speed=9
+Owner=allies
+Cost=600
+Points=40
+ROT=5
+Crewed=yes
+
+; mobile artillery
+[ARTY]
+Prerequisite=weap
+Primary=155mm
+Strength=75
+Armor=light
+TechLevel=8
+Sight=5
+Speed=6
+Owner=allies
+Cost=600
+Points=35
+ROT=2
+Tracked=yes
+Crewed=yes
+NoMovingFire=yes
+
+; harvester
+[HARV]
+Prerequisite=weap,proc
+Strength=600
+Armor=heavy
+TechLevel=1
+Sight=4
+Speed=6
+Owner=allies,soviet
+Cost=1400
+Points=55
+ROT=5
+Tracked=yes
+Crewed=yes
+SelfHealing=yes
+
+; Mobile Construction Vehicle
+[MCV]
+Prerequisite=weap,fix
+Strength=600
+Armor=light
+TechLevel=11
+Sight=4
+Speed=6
+Owner=allies,soviet
+Cost=2500
+Points=60
+ROT=5
+Crewed=yes
+
+; Ranger (as in "Ford", not "W.W. II Commando")
+[JEEP]
+Prerequisite=weap
+Primary=M60mg
+Strength=150
+Armor=light
+TechLevel=3
+Sight=6
+Speed=10
+Owner=allies,soviet
+Cost=600
+Points=20
+ROT=10
+Crewed=yes
+
+; Armored Personnel Carrier
+Passengers=3
+[APC]
+Prerequisite=weap
+Primary=M60mg
+Strength=200
+Armor=heavy
+TechLevel=5
+Sight=5
+Speed=10
+Owner=allies
+Cost=800
+Points=25
+ROT=5
+Tracked=yes
+Passengers=5
+
+; mine layer
+Secondary=MammothTusk
+[MNLY]
+Prerequisite=weap,fix
+Strength=100
+Armor=heavy
+TechLevel=3
+Sight=5
+Speed=9
+Owner=allies,soviet
+Cost=800
+Points=50
+ROT=5
+Tracked=yes
+Ammo=5         ; number of mines carried
+Crewed=yes
+
+; convoy truck
+[TRUK]
+Strength=110
+Armor=light
+Owner=soviet
+TechLevel=2
+Sight=3
+Speed=10
+Cost=500
+Points=5
+ROT=5
+Passengers=7
+
+; warrior ant
+[ANT1]
+Image=ANT1
+Name=Warrior Ant
+Primary=Mandible
+Strength=125
+Armor=heavy
+TechLevel=-1
+Sight=3
+Speed=8
+Cost=700
+Points=40
+ROT=8
+Tracked=yes
+Crewed=no
+NoMovingFire=yes
+GuardRange=5
+
+; fire ant
+[ANT2]
+Image=ANT2
+Primary=FireballLauncher
+Name=Fire Ant
+Strength=75
+Armor=heavy
+TechLevel=-1
+Sight=3
+Speed=8
+Cost=700
+Points=40
+ROT=6
+Tracked=yes
+Crewed=no
+NoMovingFire=yes
+
+; scout ant
+[ANT3]
+Image=ANT3
+Name=Scout Ant
+Primary=TeslaZap
+Strength=85
+Armor=light
+TechLevel=-1
+Sight=3
+Speed=7
+Cost=700
+Points=40
+ROT=9
+Tracked=yes
+Crewed=no
+NoMovingFire=yes
+GuardRange=5
+
+; Phase Transport
+[STNK]
+Prerequisite=weap,atek
+Primary=APTusk
+Strength=200
+Armor=heavy
+TechLevel=-1
+Sight=5
+Speed=10
+Owner=allies,soviet
+Cost=800
+Points=25
+ROT=5
+Tracked=yes
+Passengers=1
+Cloakable=yes
+SelfHealing=no
+
+; Heli Carrier
+[CARR]
+Prerequisite=hpad,atek
+Strength=350
+Primary=AirAssault
+Armor=heavy
+TechLevel=-1
+Sight=6
+Speed=6
+Owner=allies,soviet
+Cost=1200
+Points=25
+ROT=7
+Passengers=5
+
+; Chrono Tank
+[CTNK]
+Prerequisite=atek
+Primary=APTusk
+Strength=350
+Armor=light
+TechLevel=12
+Sight=5
+Speed=5
+Owner=allies
+Cost=2400
+Points=25
+ROT=5
+Tracked=yes
+
+; Tesla Tank
+[TTNK]
+Prerequisite=tsla
+Primary=TTankZap
+Strength=110
+Armor=light
+TechLevel=8
+Sight=7
+Speed=8
+Owner=soviet
+Cost=1500
+Points=30
+ROT=5
+Tracked=yes
+Crewed=yes
+NoMovingFire=yes
+
+; Demolition Truck
+[DTRK]
+Prerequisite=mslo
+Primary=Democharge
+Strength=110
+Armor=light
+TechLevel=13
+Sight=3
+Speed=8
+Owner=allies,soviet
+Cost=2400
+Points=5
+ROT=5
+Explodes=yes
+
+; M.A.D. Tank
+[QTNK]
+Prerequisite=stek
+Primary=none
+Strength=300
+Armor=heavy
+TechLevel=10
+Sight=6
+Speed=3
+Owner=soviet
+Cost=2300
+Points=60
+ROT=5
+Tracked=yes
+Crewed=no
+
+; ******* ship types *******
+; submarine
+[SS]
+Prerequisite=spen
+Primary=TorpTube
+Strength=120
+Armor=light
+TechLevel=5
+Sight=6
+Speed=6
+Owner=soviet
+Cost=950
+Points=45
+ROT=7
+Cloakable=yes
+
+; destroyer
+[DD]
+Prerequisite=syrd
+Primary=Stinger
+Secondary=DepthCharge
+Strength=400
+Armor=heavy
+TechLevel=7
+Sight=6
+Speed=6
+Owner=allies
+Cost=1000
+Points=50
+ROT=7
+Sensors=Yes
+
+; cruiser
+[CA]
+Prerequisite=syrd,atek
+Primary=8Inch
+Secondary=8Inch
+Strength=700
+Armor=heavy
+TechLevel=10
+Sight=7
+Speed=4
+Owner=allies
+Cost=2000
+Points=60
+ROT=5
+Sensors=Yes
+
+; transport
+[LST]
+Strength=350
+Armor=heavy
+TechLevel=3
+Sight=6
+Speed=14
+Owner=allies,soviet
+Cost=700
+Points=25
+ROT=10
+Passengers=5
+
+; gun boat
+[PT]
+Prerequisite=syrd
+Primary=2Inch
+Secondary=DepthCharge
+Strength=200
+Armor=heavy
+TechLevel=5
+Sight=7
+Speed=9
+Owner=allies
+Cost=500
+Points=30
+ROT=7
+Sensors=Yes
+
+; Missile Submarine
+[MSUB]
+Prerequisite=stek
+Primary=SubSCUD
+Strength=150
+Armor=light
+TechLevel=9
+Sight=6
+Speed=5
+Owner=soviet
+Cost=1650
+Points=45
+ROT=7
+Cloakable=yes
+Inaccurate=no
+
+; ******* infantry types *******
+; attack dog
+[DOG]
+Prerequisite=kenn
+Primary=DogJaw
+Strength=12
+;Strength=5
+Armor=none
+TechLevel=3
+Sight=5
+Speed=4
+Owner=soviet
+Cost=200
+Points=5
+IsCanine=yes
+GuardRange=7
+
+; rifle soldier
+[E1]
+Primary=M1Carbine
+Strength=50
+Armor=none
+TechLevel=1
+Sight=4
+Speed=4
+Owner=allies,soviet
+Cost=100
+Points=5
+
+; grenadier
+[E2]
+Primary=Grenade
+Strength=50
+Armor=none
+TechLevel=1
+Sight=4
+Speed=5
+Owner=soviet
+Cost=160
+Points=10
+Explodes=yes
+
+; rocket soldier
+[E3]
+Primary=RedEye
+Secondary=Dragon
+Strength=45
+Armor=none
+TechLevel=2
+Sight=4
+Speed=3
+Owner=allies
+Cost=300
+Points=10
+DoubleOwned=yes
+
+; Flamethrower
+[E4]
+Prerequisite=stek
+Primary=Flamer
+Strength=40
+Armor=none
+TechLevel=6
+Sight=4
+Speed=3
+Owner=soviet
+Cost=300
+Points=15
+Explodes=yes
+
+; engineer
+[E6]
+Strength=25
+Armor=none
+TechLevel=5
+Sight=4
+Speed=4
+Owner=soviet,allies
+Cost=500
+Points=20
+Infiltrate=yes
+
+; spy
+[SPY]
+Prerequisite=dome
+Strength=25
+Armor=none
+TechLevel=6
+Sight=5
+Speed=4
+Owner=allies
+Cost=500
+Points=15
+Infiltrate=yes
+
+; thief
+[THF]
+Prerequisite=atek
+Strength=25
+Armor=none
+TechLevel=11
+Sight=5
+Speed=4
+Owner=allies
+Cost=500
+Points=10
+Infiltrate=yes
+
+; Tanya
+[E7]
+Prerequisite=atek
+Primary=Colt45
+Secondary=Colt45
+Strength=100
+Armor=none
+TechLevel=11
+Sight=6
+Speed=5
+Owner=allies,soviet
+Cost=1200
+Points=25
+Infiltrate=yes
+C4=yes
+DoubleOwned=yes
+
+; field medic
+[MEDI]
+Primary=Heal
+Strength=80
+Armor=none
+TechLevel=2
+Sight=3
+Speed=4
+Owner=allies
+Cost=800
+Points=15
+
+; field marshal
+[GNRL]
+Primary=Pistol
+Strength=80
+Armor=none
+TechLevel=-1
+Sight=3
+Speed=5
+Owner=allies,soviet
+Cost=0
+Points=15
+Infiltrate=yes
+
+; civilians
+[C1]
+Image=C1
+Primary=Pistol
+Strength=25
+Armor=none
+TechLevel=-1
+Sight=2
+Speed=5
+Owner=allies,soviet
+Cost=10
+Points=1
+Ammo=10
+Fraidycat=yes
+
+[C2]
+Image=C1
+Strength=25
+Armor=none
+TechLevel=-1
+Sight=2
+Speed=5
+Owner=allies,soviet
+Cost=10
+Points=1
+Fraidycat=yes
+
+[C3]
+Image=C2
+Strength=25
+Armor=none
+TechLevel=-1
+Sight=2
+Speed=5
+Owner=allies,soviet
+Cost=10
+Points=1
+Fraidycat=yes
+
+[C4]
+Image=C2
+Strength=25
+Armor=none
+TechLevel=-1
+Sight=2
+Speed=5
+Owner=allies,soviet
+Cost=10
+Points=1
+Fraidycat=yes
+
+[C5]
+Image=C2
+Strength=25
+Armor=none
+TechLevel=-1
+Sight=2
+Speed=5
+Owner=allies,soviet
+Cost=10
+Points=1
+Fraidycat=yes
+
+[C6]
+Image=C1
+Strength=25
+Armor=none
+TechLevel=-1
+Sight=2
+Speed=5
+Owner=allies,soviet
+Cost=10
+Points=1
+Fraidycat=yes
+
+[C7]
+Image=C1
+Primary=Pistol
+Strength=25
+Armor=none
+TechLevel=-1
+Sight=2
+Speed=5
+Owner=allies,soviet
+Cost=10
+Points=1
+Ammo=10
+Fraidycat=yes
+
+[C8]
+Image=C1
+Strength=25
+Armor=none
+TechLevel=-1
+Sight=2
+Speed=5
+Owner=allies,soviet
+Cost=10
+Points=1
+Fraidycat=yes
+
+[C9]
+Image=C1
+Strength=25
+Armor=none
+TechLevel=-1
+Sight=2
+Speed=5
+Owner=allies,soviet
+Cost=10
+Points=1
+Fraidycat=yes
+
+[C10]
+Image=C1
+Strength=25
+Armor=none
+TechLevel=-1
+Sight=2
+Speed=5
+Owner=allies,soviet
+Cost=10
+Points=1
+Fraidycat=yes
+
+; professor Einstein
+[EINSTEIN]
+Strength=25
+Armor=none
+TechLevel=-1
+Sight=2
+Speed=5
+Owner=allies
+Cost=10
+Points=1
+Fraidycat=yes
+
+; special agent
+[DELPHI]
+Primary=Pistol
+Strength=25
+Armor=none
+TechLevel=-1
+Sight=2
+Speed=5
+Owner=allies,soviet
+Cost=10
+Points=1
+Ammo=10
+
+; special agent
+[CHAN]
+Strength=25
+Armor=none
+TechLevel=-1
+Sight=2
+Speed=5
+Owner=allies,soviet
+Cost=10
+Points=1
+
+; Shock Trooper
+[SHOK]
+Prerequisite=tsla
+Primary=PortaTesla
+Strength=80
+Armor=none
+TechLevel=7
+Sight=4
+Speed=3
+Owner=soviet
+Cost=900
+Points=15
+Explodes=no
+NoMovingFire=yes
+Crushable=no
+
+; field mechanic
+[MECH]
+Prerequisite=fix
+Primary=GoodWrench
+Strength=60
+Armor=none
+TechLevel=7
+Sight=3
+Speed=4
+Owner=allies
+Cost=950
+Points=15
+
+; ******* aircraft types *******
+; Badger bomber
+[BADR]
+Prerequisite=afld
+Primary=ParaBomb
+Strength=60
+Armor=light
+TechLevel=-1
+Sight=0
+Speed=16
+Owner=soviet
+Cost=10
+Points=20
+ROT=5
+Ammo=5
+Passengers=5
+
+; spy photo-recon plane
+[U2]
+Prerequisite=afld
+Primary=Camera
+Strength=2000
+Armor=heavy
+TechLevel=-1
+Sight=0
+Speed=40
+Owner=soviet
+Cost=10
+Points=5
+ROT=7
+Ammo=1         ; snapshot film
+
+; jet attack plane
+[MIG]
+Prerequisite=afld
+Primary=Maverick
+Secondary=Maverick
+Strength=50
+Armor=light
+TechLevel=10
+Sight=0
+Speed=20
+Owner=soviet
+Cost=1200
+Points=50
+ROT=5
+Ammo=3
+GuardRange=30
+
+; prop attack plane
+[YAK]
+Prerequisite=afld
+Primary=ChainGun
+Secondary=ChainGun
+Strength=60
+Armor=light
+TechLevel=5
+Sight=0
+Speed=16
+Owner=soviet
+Cost=800
+Points=25
+ROT=5
+Ammo=15
+Crewed=yes
+GuardRange=30
+
+; transport helicopter
+[TRAN]
+Prerequisite=hpad
+Strength=90
+Armor=light
+TechLevel=11
+Sight=0
+Speed=12
+Owner=soviet
+Cost=1200
+Points=35
+ROT=5
+Passengers=5
+
+; Longbow attack helicopter
+[HELI]
+Prerequisite=hpad
+Primary=Hellfire
+Secondary=Hellfire
+Strength=225
+Armor=heavy
+TechLevel=9
+Sight=0
+Speed=16
+Owner=allies
+Cost=1200
+Points=50
+ROT=4
+Ammo=6
+Crewed=yes
+GuardRange=30
+
+; Hind attack helicopter
+[HIND]
+Prerequisite=hpad
+Primary=ChainGun
+Strength=225
+Armor=heavy
+TechLevel=9
+Sight=0
+Speed=12
+Owner=soviet
+Cost=1200
+Points=40
+ROT=4
+Ammo=12
+Crewed=yes
+GuardRange=30
+
+; ******* building types *******
+; Iron Curtain
+[IRON]
+Prerequisite=stek
+Strength=400
+Armor=wood
+TechLevel=12
+Sight=10
+Owner=soviet
+Cost=2800
+Points=100
+Power=-200
+Powered=true
+Capturable=true
+Crewed=yes
+
+; forward command center
+Adjacent=8
+[FCOM]
+Strength=400
+Armor=wood
+TechLevel=-1
+Sight=10
+Owner=soviet
+Cost=0
+Points=40
+Power=-200
+Bib=yes
+Capturable=true
+Crewed=yes
+
+; advanced tech center
+[ATEK]
+Prerequisite=weap,dome
+Strength=400
+Armor=wood
+TechLevel=10
+Sight=10
+Owner=allies
+Cost=1500
+Points=85
+Power=-200
+Bib=yes
+Capturable=true
+Crewed=yes
+
+; paradox device
+Adjacent=4
+[PDOX]
+Prerequisite=atek
+Strength=400
+Armor=wood
+TechLevel=12
+Sight=10
+Owner=allies
+Cost=2800
+Points=100
+Power=-200
+Powered=true
+Capturable=true
+Crewed=yes
+
+; weapons factory
+Adjacent=5
+[WEAP]
+Prerequisite=proc
+Strength=1000
+Armor=light
+TechLevel=3
+Sight=4
+Owner=soviet,allies
+Cost=2000
+Points=80
+Power=-30
+Bib=yes
+Capturable=true
+Crewed=yes
+
+; ship yard
+Adjacent=5
+[SYRD]
+Prerequisite=powr
+Strength=1000
+Armor=light
+TechLevel=3
+Sight=4
+Cost=650
+Points=80
+Power=-30
+Adjacent=8
+WaterBound=yes
+Capturable=true
+BaseNormal=no
+
+; sub pen
+[SPEN]
+Prerequisite=powr
+Strength=1000
+Armor=light
+TechLevel=3
+Sight=4
+Cost=650
+Points=80
+Power=-30
+Adjacent=8
+WaterBound=yes
+Capturable=true
+BaseNormal=no
+
+; pill box
+[PBOX]
+Prerequisite=tent
+Primary=Vulcan
+Strength=400
+Armor=wood
+TechLevel=2
+Sight=5
+Owner=allies
+Cost=400
+Points=50
+Power=-15
+Sensors=yes
+Crewed=yes
+
+; camouflaged pill box
+Adjacent=6
+[HBOX]
+Prerequisite=tent
+Primary=Vulcan
+Strength=600
+Armor=wood
+TechLevel=3
+Sight=5
+Owner=allies
+Cost=600
+Points=60
+Power=-15
+Sensors=yes
+Crewed=yes
+
+; Tesla coil
+Adjacent=8
+[TSLA]
+Prerequisite=weap
+Primary=TeslaZap
+Strength=400
+Armor=heavy
+TechLevel=7
+Sight=8
+Owner=soviet
+Cost=1500
+Points=80
+Power=-220
+Ammo=3
+Powered=true
+Sensors=yes
+Crewed=yes
+
+; gun turret
+Adjacent=7
+[GUN]
+Prerequisite=tent
+Primary=TurretGun
+Strength=400
+Armor=heavy
+TechLevel=4
+Sight=6
+Owner=allies
+Cost=600
+Points=50
+Power=-40
+Sensors=yes
+Crewed=yes
+ROT=12
+
+; anti-aircraft artillery
+Adjacent=6
+[AGUN]
+Prerequisite=dome
+Primary=ZSU-23
+Secondary=ZSU-23
+Strength=400
+Armor=heavy
+TechLevel=5
+Sight=6
+Owner=allies
+Cost=600
+Points=50
+Power=-50
+Crewed=yes
+ROT=15
+Powered=true
+
+; flame turret
+Adjacent=8
+[FTUR]
+Prerequisite=barr
+Primary=FireballLauncher
+Strength=400
+Armor=heavy
+TechLevel=2
+Sight=6
+Owner=soviet
+Cost=600
+Points=65
+Power=-20
+Sensors=yes
+Explodes=no
+Crewed=yes
+
+; construction yard
+Adjacent=8
+[FACT]
+Strength=1000
+Armor=heavy
+TechLevel=-1
+Sight=5
+Owner=allies,soviet
+Cost=2500
+Points=80
+Power=200
+Bib=yes
+Capturable=true
+Crewed=yes
+
+; refinery
+Adjacent=4
+[PROC]
+Prerequisite=powr
+Strength=900
+Armor=wood
+TechLevel=1
+Sight=6
+Owner=allies,soviet
+Cost=2000
+Points=80
+Power=-30
+Storage=2000
+Bib=yes
+Capturable=true
+Crewed=yes
+
+; storage silo
+Adjacent=7
+[SILO]
+Prerequisite=proc
+Strength=300
+Armor=wood
+TechLevel=1
+Sight=4
+Owner=allies,soviet
+Cost=150
+Points=25
+Power=-10
+Storage=1500
+Capturable=true
+
+; helipad
+Adjacent=5
+[HPAD]
+Prerequisite=dome
+Strength=800
+Armor=wood
+TechLevel=9
+Sight=5
+Owner=allies,soviet
+Cost=1500
+Points=70
+Power=-10
+Bib=yes
+Capturable=true
+Crewed=yes
+
+; radar building
+Adjacent=9
+[DOME]
+Prerequisite=proc
+Strength=1000
+Armor=wood
+TechLevel=3
+Sight=10
+Owner=allies,soviet
+Cost=1000
+Points=60
+Power=-40
+Bib=yes
+Powered=true
+Capturable=true
+Sensors=yes
+Crewed=yes
+
+; gap generator
+Adjacent=7
+[GAP]
+Prerequisite=atek
+Strength=1000
+Armor=wood
+TechLevel=10
+Sight=10
+Owner=allies
+Cost=500
+Points=35
+Power=-60
+Powered=true
+Capturable=true
+
+; Surface to Air Missile launcher
+Adjacent=8
+[SAM]
+Prerequisite=dome
+Primary=Nike
+Strength=400
+Armor=heavy
+TechLevel=9
+Sight=5
+Owner=soviet
+Cost=750
+Points=50
+Power=-20
+Crewed=yes
+ROT=30
+
+; big missile silo
+Adjacent=5
+[MSLO]
+Prerequisite=stek
+Primary=none
+Strength=400
+Armor=heavy
+TechLevel=13
+Sight=5
+Owner=soviet,allies
+Cost=2500
+Points=90
+Power=-100
+Crewed=yes
+
+; airstrip
+Adjacent=5
+[AFLD]
+Prerequisite=dome
+Strength=1000
+Armor=heavy
+TechLevel=5
+Sight=7
+Owner=soviet
+Cost=600
+Points=70
+Power=-30
+Capturable=true
+Crewed=yes
+
+; normal power plant
+Adjacent=4
+[POWR]
+Prerequisite=fact
+Strength=400
+Armor=wood
+TechLevel=1
+Sight=4
+Owner=allies,soviet
+Cost=300
+Points=40
+Power=100
+Bib=yes
+Capturable=true
+Crewed=yes
+
+; advanced power plant
+Adjacent=5
+[APWR]
+Prerequisite=powr
+Strength=700
+Armor=wood
+TechLevel=8
+Sight=4
+Owner=allies,soviet
+Cost=500
+Points=50
+Power=245
+Bib=yes
+Capturable=true
+Crewed=yes
+
+; Soviet tech center
+Adjacent=4
+[STEK]
+Prerequisite=weap,dome
+Strength=600
+Armor=wood
+TechLevel=6
+Sight=4
+Owner=soviet
+Cost=1500
+Points=85
+Power=-100
+Bib=yes
+Capturable=true
+Crewed=yes
+
+; hospital (obsolete?)
+Adjacent=7
+[HOSP]
+Strength=400
+Armor=wood
+TechLevel=-1
+Sight=4
+Owner=
+Cost=
+Points=20
+Power=-20
+Bib=yes
+Capturable=true
+Crewed=yes
+
+; bio-research laboratory (obsolete?)
+[BIO]
+Strength=600
+Armor=wood
+TechLevel=-1
+Sight=4
+Owner=
+Cost=
+Points=30
+Power=-40
+Bib=yes
+Crewed=yes
+
+; Soviet barracks
+[BARR]
+Prerequisite=powr
+Strength=800
+Armor=wood
+TechLevel=1
+Sight=5
+Owner=soviet
+Cost=300
+Points=30
+Power=-20
+Bib=yes
+Crewed=yes
+Capturable=true
+
+; Allied training tent
+Adjacent=4
+[TENT]
+Prerequisite=powr
+Strength=800
+Armor=wood
+TechLevel=1
+Sight=5
+Owner=allies
+Cost=300
+Points=30
+Power=-20
+Bib=yes
+Crewed=yes
+Capturable=true
+
+; attack dog training facility
+Adjacent=4
+[KENN]
+Prerequisite=barr
+Strength=400
+Armor=wood
+TechLevel=3
+Sight=4
+Owner=soviet
+Cost=200
+Points=25
+Power=-10
+
+; service depot
+Adjacent=6
+[FIX]
+Prerequisite=weap
+Strength=800
+Armor=wood
+TechLevel=3
+Sight=5
+Owner=allies,soviet
+Cost=1200
+Points=80
+Power=-30
+Capturable=true
+Crewed=yes
+
+; sandbag wall
+Adjacent=8
+[SBAG]
+Strength=1
+Armor=none
+TechLevel=2
+Sight=0
+Owner=allies
+Cost=25
+Points=1
+Repairable=false
+Adjacent=4
+
+; concrete wall
+[BRIK]
+Strength=1
+Armor=none
+TechLevel=8
+Sight=0
+Owner=allies,soviet
+Cost=100
+Points=5
+Repairable=false
+Adjacent=4
+
+; wire fence
+[FENC]
+Strength=1
+Armor=none
+TechLevel=2
+Sight=0
+Owner=soviet
+Cost=25
+Points=1
+Repairable=false
+Adjacent=1
+
+; auxiliary decorative building
+[MISS]
+Strength=400
+Points=5
+Armor=wood
+Bib=yes
+Capturable=true
+
+; chain link fence
+[CYCL]
+Strength=1
+Points=1
+Armor=none
+Cost=75
+Repairable=false
+Adjacent=1
+Sight=0
+
+; barb wire fence
+[BARB]
+Strength=1
+Points=1
+Armor=wood
+Cost=25
+Repairable=false
+Adjacent=4
+Sight=0
+
+; wood fence
+[WOOD]
+Strength=1
+Points=1
+Repairable=false
+Adjacent=1
+Sight=0
+
+; barrels
+[BARL]
+Strength=10
+Repairable=false
+Adjacent=0
+BaseNormal=no
+
+[BRL3]
+Strength=10
+Repairable=false
+Adjacent=0
+BaseNormal=no
+
+; anti-vehicle mine
+[MINV]
+Strength=1
+Repairable=false
+Adjacent=0
+Invisible=yes
+Unsellable=yes
+BaseNormal=no
+
+; anti-personnel mine
+[MINP]
+Strength=1
+Repairable=false
+Adjacent=0
+Invisible=yes
+Unsellable=yes
+BaseNormal=no
+
+; fakes
+[FACF]
+Image=FACT
+Owner=allies
+TechLevel=1
+Strength=30
+Cost=50
+Sight=4
+Power=-2
+Points=15
+Bib=yes
+Capturable=true
+BaseNormal=no
+
+Adjacent=9
+[WEAF]
+Prerequisite=proc
+Image=WEAP
+Owner=allies
+TechLevel=3
+Cost=50
+Strength=30
+Sight=4
+Points=15
+Power=-2
+Bib=yes
+Capturable=true
+BaseNormal=no
+
+Adjacent=7
+[SYRF]
+Prerequisite=powr
+Image=SYRD
+Strength=30
+TechLevel=3
+Sight=4
+Cost=50
+Owner=allies
+Power=-2
+Points=15
+WaterBound=yes
+Capturable=true
+BaseNormal=no
+Adjacent=8
+
+[SPEF]
+Image=SPEN
+Strength=30
+TechLevel=-1
+Sight=4
+Cost=50
+Owner=soviet
+Power=-2
+Points=15
+WaterBound=yes
+Capturable=true
+BaseNormal=no
+Adjacent=8
+
+[DOMF]
+Prerequisite=proc
+Image=DOME
+Strength=30
+Sight=4
+TechLevel=3
+Cost=50
+Owner=allies
+Power=-2
+Points=15
+Bib=yes
+Capturable=true
+BaseNormal=no
+
+; ant buildings
+Adjacent=11
+[QUEE]
+Name=Queen Ant
+Prerequisite=powr
+Primary=TeslaZap
+Strength=800
+Armor=wood
+TechLevel=-1
+Sight=5
+Owner=allies,soviet
+Cost=300
+Points=100
+Power=0
+Bib=no
+Crewed=no
+Capturable=no
+SelfHealing=yes
+
+[LAR1]
+Name=Larva
+Strength=25
+Repairable=false
+Adjacent=0
+BaseNormal=no
+
+[LAR2]
+Name=Larvae
+Strength=50
+Repairable=false
+Adjacent=0
+BaseNormal=no
+
+; civilian structures
+[V01]
+Strength=400
+Points=5
+Armor=wood
+Repairable=false
+Capturable=true
+
+[V02]
+Strength=400
+Points=5
+Armor=wood
+Repairable=false
+
+[V03]
+Strength=400
+Points=5
+Armor=wood
+Repairable=false
+
+[V04]
+Strength=400
+Points=5
+Armor=wood
+Repairable=false
+
+[V05]
+Strength=400
+Points=5
+Armor=wood
+Repairable=false
+
+[V06]
+Strength=400
+Points=5
+Armor=wood
+Repairable=false
+
+[V07]
+Strength=400
+Points=5
+Armor=wood
+Repairable=false
+
+[V08]
+Strength=400
+Points=5
+Armor=wood
+Repairable=false
+
+[V09]
+Strength=400
+Points=5
+Armor=wood
+Repairable=false
+
+[V10]
+Strength=400
+Points=5
+Armor=wood
+Repairable=false
+
+[V11]
+Strength=400
+Points=5
+Armor=wood
+Repairable=false
+
+[V12]
+Strength=400
+Points=5
+Armor=wood
+Repairable=false
+
+[V13]
+Strength=400
+Points=5
+Armor=wood
+Repairable=false
+
+[V14]
+Strength=400
+Points=5
+Armor=wood
+Repairable=false
+
+[V15]
+Strength=400
+Points=5
+Armor=wood
+Repairable=false
+
+[V16]
+Strength=400
+Points=5
+Armor=wood
+Repairable=false
+
+[V17]
+Strength=400
+Points=5
+Armor=wood
+Repairable=false
+
+[V18]
+Strength=400
+Points=5
+Armor=wood
+Repairable=false
+
+[V19]
+Strength=400
+Points=5
+Armor=wood
+Repairable=false
+
+[V20]
+Strength=400
+Points=5
+Armor=wood
+Repairable=false
+
+[V21]
+Strength=400
+Points=5
+Armor=wood
+Repairable=false
+
+[V22]
+Strength=400
+Points=5
+Armor=wood
+Repairable=false
+
+[V23]
+Strength=400
+Points=5
+Armor=wood
+Repairable=false
+
+[V24]
+Strength=400
+Points=5
+Armor=wood
+Repairable=false
+
+[V25]
+Strength=400
+Points=5
+Armor=wood
+Repairable=false
+
+[V26]
+Strength=400
+Points=5
+Armor=wood
+Repairable=false
+
+[V27]
+Strength=400
+Points=5
+Armor=wood
+Repairable=false
+
+[V28]
+Strength=400
+Points=5
+Armor=wood
+Repairable=false
+
+[V29]
+Strength=400
+Points=5
+Armor=wood
+Repairable=false
+
+[V30]
+Strength=400
+Points=5
+Armor=wood
+Repairable=false
+
+[V31]
+Strength=400
+Points=5
+Armor=wood
+Repairable=false
+
+[V32]
+Strength=400
+Points=5
+Armor=wood
+Repairable=false
+
+[V33]
+Strength=400
+Points=5
+Armor=wood
+Repairable=false
+
+[V34]
+Strength=400
+Points=5
+Armor=wood
+Repairable=false
+
+[V35]
+Strength=400
+Points=5
+Armor=wood
+Repairable=false
+
+[V36]
+Strength=400
+Points=5
+Armor=wood
+Repairable=false
+
+[V37]
+Strength=400
+Points=5
+Armor=wood
+Repairable=false
+
+
+; ******* Weapon Statistics *******
+; The weapons specified here are attached to the various combat
+; units and buildings.
+
+; Anim = animation to display as a firing effect
+; Burst = number of rapid succession shots from this weapon (def=1)
+; Camera = Reveals area around firer (def=no)?
+; Charges = Does it have charge-up-before-firing logic (def=no)?
+; Damage = the amount of damage (unattenuated) dealt with every bullet
+; Projectile = projectile characteristic to use
+; ROF = delay between shots [15 = 1 second at middle speed setting]
+; Range = maximum cell range
+; Report = sound to play when firing
+; Speed = speed of projectile to target (100 is maximum)
+; Warhead = warhead to attach to projectile
+; Supress = Should nearby friendly buildings be scanned for and if found, discourage firing on target (def=no)?
+; TurboBoost = Should the weapon get a boosted speed bonus when firing upon aircraft?
+
+; Tanya pistol
+[Colt45]
+Damage=50
+ROF=5
+Range=5.75
+Projectile=Invisible
+Speed=100
+Warhead=HollowPoint
+Report=GUN5
+
+; anti-aircraft multiple cannon
+[ZSU-23]
+Damage=25
+ROF=10
+Range=6
+Projectile=Ack
+Speed=100
+Warhead=AP
+Anim=GUNFIRE
+Report=AACANON3
+
+; rapid fire machine gun
+[Vulcan]
+Damage=40
+ROF=40
+Range=5
+Projectile=Invisible
+Speed=100
+Warhead=SA
+Report=GUN13
+Anim=MINIGUN
+
+; air-to-surface homing missile (launched from jet)
+[Maverick]
+Damage=50
+ROF=3
+Range=6
+Projectile=HeatSeeker
+Speed=30
+Warhead=AP
+Report=MISSILE7
+
+; camera
+[Camera]
+Damage=0
+ROF=10
+Range=2.75
+Projectile=Invisible
+Speed=100
+Warhead=Super
+Camera=yes
+
+; fireball from flame turret
+[FireballLauncher]
+Damage=125
+ROF=50
+Range=4
+Projectile=Fireball
+Speed=12
+Warhead=Fire
+
+; hand-held flame thrower type
+[Flamer]
+Damage=70
+ROF=50
+Range=3.5
+Projectile=Fireball
+Speed=12
+Warhead=Fire
+
+; sniper rifle
+[Sniper]
+Damage=100
+ROF=5
+Range=3.75
+Projectile=Invisible
+Speed=100
+Warhead=HollowPoint
+Report=SILENCER
+
+; rapid fire aircraft gun
+[ChainGun]
+Damage=40
+ROF=3
+Range=5
+Projectile=Invisible
+Speed=100
+Warhead=SA
+Report=GUN13
+Anim=MINIGUN
+
+; civilian pistol
+[Pistol]
+Damage=1
+ROF=7
+Range=1.75
+Projectile=Invisible
+Speed=100
+Warhead=SA
+Report=GUN27
+
+; rifle soldier weapons (multiple shots)
+[M1Carbine]
+Damage=15
+ROF=20
+Range=3
+Projectile=Invisible
+Speed=100
+Warhead=SA
+Report=GUN11
+
+; man-packed anti-tank missile (bazooka type)
+[Dragon]
+Damage=35
+ROF=50
+Range=5
+Projectile=HeatSeeker
+Speed=25
+Warhead=AP
+Report=MISSILE6
+
+; air-to-surface homing missile (launched from helicopter)
+[Hellfire]
+Damage=40
+ROF=60
+Range=4
+Projectile=HeatSeeker
+Speed=30
+Warhead=AP
+Report=MISSILE6
+
+; hand grenade
+[Grenade]
+Damage=50
+ROF=60
+Range=4
+Projectile=Lobbed
+Speed=5
+Warhead=HE
+
+; small anti-armor cannon
+[75mm]
+Damage=25
+ROF=40
+Range=4
+Projectile=Cannon
+Speed=40
+Warhead=AP
+Report=CANNON2
+Anim=GUNFIRE
+
+; light anti-armor cannon
+[90mm]
+Damage=30
+ROF=50
+Range=4.75
+Projectile=Cannon
+Speed=40
+Warhead=AP
+Report=CANNON1
+Anim=GUNFIRE
+
+; medium anti-armor cannon
+[105mm]
+Damage=30
+ROF=70
+Range=4.75
+Projectile=Cannon
+Speed=40
+Warhead=AP
+Report=CANNON1
+Anim=GUNFIRE
+
+; large anti-armor cannon
+[120mm]
+Damage=40
+ROF=80
+Range=4.75
+Projectile=Cannon
+Speed=40
+Warhead=AP
+Report=CANNON1
+Anim=GUNFIRE
+Burst=2
+
+; turret cannon
+[TurretGun]
+Damage=40
+ROF=50
+Range=6
+Projectile=Cannon
+Speed=40
+Warhead=AP
+Report=TURRET1
+Anim=GUNFIRE
+
+; Vehicle carried anti-tank missile
+[MammothTusk]
+Damage=75
+ROF=80
+Range=5
+Projectile=HeatSeeker
+Speed=30
+Warhead=HE
+Report=MISSILE6
+Burst=2
+
+; artillery cannon
+[155mm]
+Damage=150
+ROF=65
+Range=6
+Projectile=Ballistic
+Speed=12
+Warhead=HE
+Report=TANK5
+Anim=GUNFIRE
+
+; vehicle mounted machine gun
+[M60mg]
+Damage=15
+ROF=20
+Range=4
+Projectile=Invisible
+Speed=100
+Warhead=SA
+Report=PILLBOX1
+Anim=MINIGUN
+
+; napalm bomblets (dropped from plane)
+[Napalm]
+Damage=100
+ROF=20
+Range=4.5
+Projectile=Bomblet
+Speed=5
+Warhead=Fire
+
+; Tesla coil zap
+[TeslaZap]
+Damage=100
+ROF=120
+Range=8.5
+Projectile=Invisible
+Speed=100
+Warhead=Super
+Report=TESLA1
+Charges=yes
+
+; anti-aircraft missile (fired from SAM site)
+[Nike]
+Damage=50
+ROF=20
+Range=7.5
+Projectile=AAMissile
+Speed=50
+Warhead=AP
+Report=MISSILE1
+Anim=SAMFIRE
+
+; man-packed surface to air missile
+[RedEye]
+Damage=50
+ROF=50
+Range=7.5
+Projectile=AAMissile
+Speed=50
+Warhead=AP
+Report=MISSILE1
+Anim=SAMFIRE
+
+; 8 inch cruiser cannon
+[8Inch]
+Damage=500
+ROF=160
+Range=22
+Projectile=Ballistic
+Speed=6
+Warhead=HE
+Report=TURRET1
+Anim=GUNFIRE
+Supress=yes
+
+; gunboat mounted anti-aircraft rocket
+[Stinger]
+Damage=30
+ROF=60
+Range=9
+Projectile=LaserGuided
+Speed=20
+Warhead=AP
+Report=MISSILE6
+Burst=2
+TurboBoost=yes
+
+; torpedo tube
+[TorpTube]
+Damage=90
+ROF=60
+Range=9
+Projectile=Torpedo
+Speed=15
+Warhead=AP
+Report=TORPEDO1
+
+; destroyer mounted 2 inch cannon
+[2Inch]
+Damage=25
+ROF=60
+Range=5.5
+Projectile=Cannon
+Speed=25
+Warhead=AP
+Report=CANNON2
+Anim=GUNFIRE
+
+; anti-submarine weapon
+[DepthCharge]
+Damage=80
+ROF=60
+Range=5
+Projectile=Catapult
+Speed=5
+Warhead=AP
+
+; parachute bomb
+[ParaBomb]
+Damage=300
+ROF=4
+Range=4.5
+Projectile=Parachute
+Speed=5
+Warhead=HE
+Report=CHUTE1
+
+; dog bite
+[DogJaw]
+Damage=100
+ROF=10
+Range=2.2
+Projectile=LeapDog
+Speed=20
+Warhead=Organic
+Report=DOGG5P
+
+; medic healing
+[Heal]
+Damage=-50
+ROF=80
+Range=1.83
+Projectile=Invisible
+Speed=100
+Warhead=Organic
+Report=HEAL2
+
+; SCUD launcher
+[SCUD]
+Damage=600
+ROF=400
+Range=10
+Projectile=FROG
+Speed=25
+Warhead=HE
+Report=MISSILE1
+
+; Ant weapon
+[Mandible]
+Damage=50
+ROF=15
+Range=1.5
+Projectile=Invisible
+Speed=100
+Warhead=Super
+Report=ANTBITE
+
+; Aircraft carrier weapon
+[AirAssault]
+Damage=0
+ROF=60
+Range=127
+Projectile=Invisible
+Speed=100
+Warhead=Super
+
+; Portable tesla coil weapon
+[PortaTesla]
+Damage=45
+ROF=70
+Range=3.5
+Projectile=Invisible
+Speed=100
+Warhead=Super
+Report=SHKTROP1
+Charges=yes
+
+; Tesla tank weapon
+[TTankZap]
+Damage=100
+ROF=120
+Range=7
+Projectile=Invisible
+Speed=100
+Warhead=Super
+Report=TESLA1
+Charges=yes
+
+; Mr. Goodwrench mechanic's healing weapon
+[GoodWrench]
+Damage=-100
+ROF=80
+Range=1.83
+Projectile=Invisible
+Speed=100
+Warhead=Mechanical
+Report=FIXIT1
+
+; Submarine's scud missile
+[SubSCUD]
+Damage=400
+ROF=120
+Range=14
+Projectile=HeatSeeker
+Speed=20
+Warhead=HE
+Report=MISSILE6
+Burst=2
+
+; Chrono tank's missile
+[APTusk]
+Damage=75
+ROF=80
+Range=5
+Projectile=HeatSeeker
+Speed=30
+Warhead=AP
+Report=MISSILE6
+Burst=2
+
+; Demolition truck charge
+[Democharge]
+Anim=none
+Damage=500
+Speed=100
+Range=1.75
+Projectile=Invisible
+Warhead=Nuke
+ROF=80
+
+; ******* Projectile Statistics *******
+; Projectiles describe how and what image to use as the weapon flies
+; to its target. Think of the projectile as the "delivery method" used
+; to get the warhead to the desired target.
+
+; AA = Can this weapon fire upon flying aircraft (def=no)?
+; AG = Can this weapon fire upon ground objects (def=yes)?
+; ASW = Is this an Anti-Submarine-Warfare projectile (def=no)?
+; Animates = Does it animate [this means smoke puffs] (def=no)?
+; Arcing = Does it have a ballistic trajectory (def=no)?
+; Arm = arming delay (def=0)
+; Degenerates = Does the bullet strength weaken as it travels (def=no)?
+; Dropping = Does it fall from a starting height (def=no)?
+; Frames = number of image frames for animation purposes (def=1)
+; Gigundo = Is the projectile larger than normal (def=no)?
+; High = Can it fly over walls (def=no)?
+; Image = image to use during flight
+; Inaccurate = Is it inherently inaccurate (def=no)?
+; Inviso = Is the projectile invisible as it travels (def=no)?
+; Parachuted = Equipped with a parachute for dropping from plane (def=no)?
+; Proximity = Does it blow up when near its target (def=no)?
+; ROT = Rate Of Turn [non zero implies homing] (def=0)
+; Ranged = Can it run out of fuel (def=no)?
+; Rotates = Does the projectile have rotation specific imagery (def=no)?
+; Shadow = If High, does this bullet need to have a shadow drawn? (def = yes)
+; Translucent = Are translucent colors used in artwork (def=no)?
+; UnderWater = Does the projectile travel under water?
+
+; invisible flight to target
+[Invisible]
+Inviso=yes
+Image=none
+
+; special case for dog
+[LeapDog]
+Image=DOGBULLT
+Translucent=yes
+Rotates=yes
+Proximity=yes
+ROT=20
+
+; straight high-speed ballistic shot
+[Cannon]
+Image=120MM
+
+; anti aircraft artillery projectile
+[Ack]
+Image=none
+Inviso=yes
+AA=true
+AG=false
+
+; Sub-surface projectile.
+[Torpedo]
+UnderWater=yes
+Image=MISSILE
+Rotates=yes
+ASW=yes
+
+; Free Rocket Over Ground
+[FROG]
+Arm=10
+High=yes
+Shadow=no
+Proximity=yes
+Animates=yes
+Ranged=yes
+Inaccurate=yes
+Image=V2
+Rotates=yes
+
+; small homing missile (targets vehicles best)
+[HeatSeeker]
+Arm=2
+High=yes
+Shadow=no
+Proximity=yes
+Animates=yes
+Ranged=yes
+Inaccurate=yes
+AA=yes
+Image=DRAGON
+ROT=5
+Rotates=yes
+Translucent=yes
+
+; small missile with deadly accuracy
+[LaserGuided]
+Arm=3
+High=yes
+Shadow=no
+Proximity=yes
+Animates=yes
+Ranged=yes
+AA=yes
+Image=DRAGON
+ROT=20
+Rotates=yes
+Translucent=yes
+
+; anti aircraft missile
+[AAMissile]
+Arm=3
+High=yes
+Shadow=no
+Proximity=yes
+Animates=yes
+Ranged=yes
+AA=yes
+AG=no
+Image=MISSILE
+ROT=20
+Rotates=yes
+Translucent=yes
+
+; lobbed tumbling grenade
+[Lobbed]
+High=yes
+Arcing=yes
+Inaccurate=yes
+Image=BOMB
+Frames=8
+Translucent=yes
+
+; Depth charge catapult
+[Catapult]
+High=yes
+Arcing=yes
+Inaccurate=yes
+Image=BOMB
+Frames=8
+ASW=yes
+AG=no
+Translucent=yes
+
+; dropped from plane tumbling object
+[Bomblet]
+Arm=24
+RangeLimit=24
+High=yes
+Dropping=yes
+Image=BOMBLET
+Frames=6
+Translucent=yes
+
+; arcing ballistic projectile
+[Ballistic]
+High=yes
+Arcing=yes
+Inaccurate=yes
+Image=120MM
+
+; parachute bomb
+[Parachute]
+Arm=24
+RangeLimit=24
+High=yes
+Dropping=yes
+Parachuted=yes
+;Image=PARABOMB
+
+; Allied free radar (GPS satellite)
+[GPSSatellite]
+Gigundo=yes
+High=yes
+Image=SPUTNIK
+Frames=4
+
+; Nuclear missile, flying up
+[NukeUp]
+Gigundo=yes
+High=yes
+Image=ATOMICUP
+Frames=4
+
+; Nuclear missile, flying down
+[NukeDown]
+Gigundo=yes
+High=yes
+Image=ATOMICDN
+Frames=4
+
+; wizard's fireball
+[Fireball]
+Animates=yes
+Image=FB1
+Frames=8
+
+
+; ******* Warhead Characteristics *******
+; This is what gives the "rock, paper, scissors" character to the game.
+; It describes how the damage is to be applied to the target. The
+; values should take into consideration the 'area of effect'.
+; example: Although an armor piercing tank round would instantly
+; kill a soldier IF it hit, the anti-infantry rating is still
+; very low because the tank round has such a limited area of
+; effect, lacks pinpoint accuracy, and acknowledges the fact that
+; tanks pose little threat to infantry that take cover.
+
+; Spread = damage spread factor [larger means greater spread] (def=1)
+;          [A value of 1 means the damage is halved every pixel distant from center point.
+;          a value of 2 means damage is halved every 2 pixels, etc.]
+; Wall = Does this warhead damage concrete walls (def=no)?
+; Wood = Does this warhead damage wood walls (def=no)?
+; Ore = Does this warhead destroy ore (def=no)?
+; Verses = damage value verses various armor types (as percentage of full damage)...
+;           -vs- none, wood (buildings), light armor, heavy armor, concrete
+; Explosion = which explosion set to use when warhead of this type impacts (def=0)
+;             0=none, 1=piff, 2=piffs, 3=fire, 4=frags, 5=pops, 6=nuke
+; InfDeath = which infantry death animation to use (def=0)
+;             0=instant die, 1=twirl die, 2=explodes, 3=flying death, 4=burn death, 5=electro
+
+; general multiple small arms fire
+[SA]
+Spread=3
+Verses=100%,50%,60%,25%,25%
+Explosion=2
+InfDeath=1
+
+; high explosive (shrapnel)
+[HE]
+Spread=6
+Wall=yes
+Wood=yes
+Verses=90%,75%,60%,25%,100%
+Explosion=5
+InfDeath=2
+
+; armor piercing (discarding sabot, narrow effect)
+[AP]
+Spread=3
+Wall=yes
+Wood=yes
+Verses=30%,75%,75%,100%,50%
+Explosion=4
+InfDeath=3
+
+; napalm and fire in general
+[Fire]
+Spread=8
+Wood=yes
+Verses=90%,100%,60%,25%,50%
+Explosion=3
+InfDeath=4
+
+; anti-infantry rifle bullet (single shot -- very effective verses infantry)
+[HollowPoint]
+Spread=1
+Verses=100%,5%,5%,5%,5%
+Explosion=1
+InfDeath=1
+
+; special case damage effect (do not use for regular weapons)
+[Super]
+Spread=1
+Verses=100%,100%,100%,100%,100%
+InfDeath=5
+
+; special case to only affect infantry (do not use for regular weapons)
+[Organic]
+Spread=0
+Verses=100%,0%,0%,0%,0%
+InfDeath=0
+
+; Nuclear warhead (same as fire)
+[Nuke]
+Spread=6
+Wall=yes
+Wood=yes
+Ore=yes
+Verses=90%,100%,60%,25%,50%
+Explosion=6
+InfDeath=4
+
+; Mechanical warhead - doesn't affect infantry (only for mechanic, not weapons)
+[Mechanical]
+Spread=0
+Verses=100%,100%,100%,100%,100%
+InfDeath=0
+
+; ******* Land Characteristics *******
+; This section specifies the characteristics of the various
+; terrain types. The primary purpose is to differentiate the
+; movement capabilities.
+
+; Float = % of full speed for ships [0 means impassable] (def=100)
+; Foot = % of full speed for foot soldiers [0 means impassable] (def=100)
+; Track = % of full speed for tracked vehicles [0 means impassable] (def=100)
+; Wheel = % of full speed for wheeled vehicles [0 means impassable] (def=100)
+; Buildable = Can buildings be built upon this terrain (def=no)?
+
+; clear grassy terrain
+[Clear]
+Foot=90%
+Track=80%
+Wheel=60%
+Float=0%
+Buildable=yes
+
+; rocky terrain
+[Rough]
+Foot=80%
+Track=70%
+Wheel=40%
+Float=0%
+Buildable=no
+
+; roads
+[Road]
+Foot=100%
+Track=100%
+Wheel=100%
+Float=0%
+Buildable=yes
+
+; open water
+[Water]
+Foot=0%
+Track=0%
+Wheel=0%
+Float=100%
+Buildable=no
+
+; cliffs
+[Rock]
+Foot=0%
+Track=0%
+Wheel=0%
+Float=0%
+Buildable=no
+
+; walls and other man made obstacles
+[Wall]
+Foot=0%
+Track=0%
+Wheel=0%
+Float=0%
+Buildable=no
+
+; ore (Tiberium)
+[Ore]
+Foot=90%
+Track=70%
+Wheel=50%
+Float=0%
+Buildable=no
+
+; sandy beach
+[Beach]
+Foot=80%
+Track=70%
+Wheel=40%
+Float=0%
+Buildable=no
+
+; craggy riverbed
+[River]
+Foot=0%
+Track=0%
+Wheel=0%
+Float=0%
+Buildable=no
+
+
+; ******* Random Crate Powerups *******
+; This specifies the chance for the specified crate powerup to appear
+; in a 'random' crate. The chance is expressed in the form of 'shares'
+; out of the total shares specified. The second parameter is the animation
+; to use when this crate is picked up. The third parameter, if present, specifies
+; the data value needed for that crate powerup. They mean different things
+; for the different powerups.
+[Powerups]
+Armor=10,ARMOR,2.0              ; armor of nearby objects increased (armor multiplier)
+Cloak=0,STEALTH2                ; enable cloaking on nearby objects
+Darkness=1,EMPULSE              ; cloak entire radar map
+Explosion=5,NONE,500            ; high explosive baddie (damage per explosion)
+Firepower=10,FPOWER,2.0         ; firepower of nearby objects increased (firepower multiplier)
+HealBase=1,INVUN                ; all buildings to full strength
+ICBM=1,MISSILE2                 ; nuke missile one time shot
+Money=50,DOLLAR,2000            ; a chunk o' cash (maximum cash)
+Napalm=5,NONE,600               ; fire explosion baddie (damage)
+ParaBomb=3,PARABOX              ; para-bomb raid one time shot
+Reveal=1,EARTH                  ; reveal entire radar map
+Sonar=3,SONARBOX                ; one time sonar pulse
+Speed=10,SPEED,1.7              ; speed of nearby objects increased (speed multiplier)
+Squad=20,NONE                   ; squad of random infantry
+Unit=20,NONE                    ; vehicle
+Invulnerability=3,INVULBOX,1.0  ; invulnerability (duration in minutes)
+TimeQuake=3,TQUAKE              ; time quake
+
+
+; ******* Mission Control *******
+; This specifies the various general behavior characteristics of
+; the missions that objects can be assigned. Each of the game objects must
+; be in a mission. The mission behavior is generally hard coded into
+; the program, but there are some behavior characteristics that can
+; be overridden. Don't modify these.
+
+; NoThreat = Is its weapons disabled and thus ignored as a potential target until fired upon (def=no)?
+; Zombie = Is forced to sit there like a zombie and never recovers (def=no)?
+; Recruitable = Can it be recruited into a team or base defense (def=yes)?
+; Paralyzed = Is the object frozen in place but can still fire and function (def=no)?
+; Retaliate = Is allowed to retaliate while on this mission (def=yes)?
+; Scatter = Is allowed to scatter from threats (def=yes)?
+; Rate = delay between normal processing (larger = faster game, less responsiveness)
+; AARate = anti-aircraft delay rate (if not specifed it uses regular rate).
+
+; Unit sits still and plays dead.
+[Sleep]
+Recruitable=no
+Zombie=yes
+Retaliate=no
+Scatter=no
+Rate=1
+
+; Unit doesn't fire and is not considered a threat.
+[Harmless]
+Recruitable=no
+NoThreat=yes
+Retaliate=no
+Rate=.5
+
+; Just like guard mode, but cannot move.
+[Sticky]
+Recruitable=no
+Paralyzed=yes
+Scatter=no
+Rate=.016
+
+; Special attack mission used by team logic.
+[Attack]
+Rate=.016
+AARate=.016
+
+; Move to destination.
+[Move]
+Rate=.016
+
+; Special move to destination after all other queued moves occur.
+[QMove]
+Rate=.016
+
+; Run away (possibly leave the map).
+[Retreat]
+Recruitable=no
+Retaliate=no
+Rate=.1
+
+; Sit around and engage any enemy that wanders within weapon range.
+[Guard]
+Rate=.050
+AARate=.016
+
+; Enter building or transport for loading purposes.
+[Enter]
+Retaliate=no
+Recruitable=no
+Rate=.016
+
+; Engineer entry logic.
+[Capture]
+Retaliate=no
+Recruitable=no
+Scatter=no
+Rate=.016
+
+; Handle harvest ore - dump at refinery loop.
+[Harvest]
+Retaliate=no
+Recruitable=no
+Scatter=no
+Rate=.016
+
+; Guard the general area where the unit starts at.
+[Area Guard]
+Recruitable=no
+Rate=.080
+AARate=.032
+
+; <unused>
+[Return]
+
+; Stop moving and firing at the first available opportunity.
+[Stop]
+
+; <unused>
+[Ambush]
+
+; Scan for and attack any enemies whereever they may be.
+[Hunt]
+Recruitable=no
+Retaliate=no
+Rate=.016
+
+; While dropping off cargo (e.g., APC unloading passengers).
+[Unload]
+Recruitable=no
+Retaliate=no
+Scatter=no
+Rate=.016
+
+; Tanya running to place bomb in building.
+[Sabotage]
+Recruitable=no
+Rate=.016
+
+; Buildings use this when building up after initial placement.
+[Construction]
+Recruitable=no
+Retaliate=no
+Scatter=no
+
+; Buildings use this when deconstruction after being sold.
+[Selling]
+Recruitable=no
+NoThreat=yes
+Retaliate=no
+Scatter=no
+
+; Service depot uses this mission to repair attached object.
+[Repair]
+Rate=.08
+
+; Special team override mission.
+[Rescue]
+Rate=.016
+
+; Missile silo special launch missile mission.
+[Missile]
+Rate=.1
+

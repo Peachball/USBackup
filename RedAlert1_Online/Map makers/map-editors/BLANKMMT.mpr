@@ -1,0 +1,22 @@
+[Basic]
+NewINIFormat=3
+Name=Blank MegaMap (Temperate)
+
+[Map]
+Theater=TEMPERATE
+X=1
+Y=1
+Width=126
+Height=126
+
+[Waypoints]
+98=8256
+
+[MapPack]
+1=CQAAIIH//v4f/4H/gAkAACCB//7+H/+B/4AJAAAggf/+/h//gf+ACQAAIIH//v4f/4H/gA
+2=kAACCBAP7+HwCBAIAJAAAggQD+/h8AgQCA
+
+[OverlayPack]
+1=CQAAIIH//v4f/4H/gAkAACCB//7+H/+B/4A=
+
+
